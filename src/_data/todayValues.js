@@ -1,11 +1,11 @@
 {
     "mediumTermTodayValueBtc": {
-        "number": 0.128619588744108,
+        "number": 0.12857428384725497,
         "percentage": "1.2"
     },
     "mediumTermTodayValueUsdt": {
-        "number": 697.5066021510727,
-        "percentage": "-0.3"
+        "number": 696.309463088871,
+        "percentage": "-0.5"
     },
     "mediumTermTodayQtyOrders": {
         "number": 0,
@@ -19,14 +19,14 @@
         "number": "0.0016"
     },
     "mediumTermTodayGainsUsdt": {
-        "number": "-2.1"
+        "number": "-3.3"
     },
     "shortTermTodayValueBtc": {
-        "number": 0.07132293225454199,
-        "percentage": "3.5"
+        "number": 0.071391619176754,
+        "percentage": "3.6"
     },
     "shortTermTodayValueUsdt": {
-        "number": 386.6195056428732,
+        "number": 386.5863317583147,
         "percentage": "1.9"
     },
     "shortTermTodayQtyOrders": {
@@ -38,18 +38,18 @@
         "percentage": 0
     },
     "shortTermTodayGainsBtc": {
-        "number": "0.0025"
+        "number": "0.0026"
     },
     "shortTermTodayGainsUsdt": {
-        "number": "7.4"
+        "number": "7.3"
     },
     "longTermTodayValueBtc": {
-        "number": 0.335089777176216,
-        "percentage": "1.2"
+        "number": 0.334610124510496,
+        "percentage": "1.0"
     },
     "longTermTodayValueUsdt": {
-        "number": 1815.6638522426958,
-        "percentage": "-0.5"
+        "number": 1811.8669788069042,
+        "percentage": "-0.7"
     },
     "longTermTodayQtyOrders": {
         "number": 0,
@@ -60,18 +60,18 @@
         "percentage": 0
     },
     "longTermTodayGainsBtc": {
-        "number": "0.0040"
+        "number": "0.0035"
     },
     "longTermTodayGainsUsdt": {
-        "number": "-8.9"
+        "number": "-12.7"
     },
     "longerTermTodayValueBtc": {
-        "number": 0.174987972094689,
-        "percentage": "1.3"
+        "number": 0.174718970376695,
+        "percentage": "1.1"
     },
     "longerTermTodayValueUsdt": {
-        "number": 947.9115947166513,
-        "percentage": "-0.4"
+        "number": 945.6559440256391,
+        "percentage": "-0.7"
     },
     "longerTermTodayQtyOrders": {
         "number": 0,
@@ -82,18 +82,18 @@
         "percentage": 0
     },
     "longerTermTodayGainsBtc": {
-        "number": "0.0022"
+        "number": "0.0019"
     },
     "longerTermTodayGainsUsdt": {
-        "number": "-4.2"
+        "number": "-6.5"
     },
     "portfolioTodayValueBtc": {
-        "number": 0.710020270269555,
-        "percentage": "1.5"
+        "number": 0.7092949979112,
+        "percentage": "1.4"
     },
     "portfolioTodayValueUsdt": {
-        "number": 3847.701554753293,
-        "percentage": "-0.2"
+        "number": 3840.418717679729,
+        "percentage": "-0.4"
     },
     "portfolioTodayQtyOrders": {
         "number": 0,
@@ -134,7 +134,7 @@
                     0.764032126206458,
                     0.7567406629215019,
                     0.725113601989134,
-                    0.7468160309192049
+                    0.746615716123423
                 ]
             }
         ]
@@ -174,7 +174,7 @@
                     0.072912335875576,
                     0.07434201043052,
                     0.068826195896864,
-                    0.07132293225454199
+                    0.071391619176754
                 ]
             }
         ]
@@ -220,7 +220,7 @@
                     0.137621959995594,
                     0.13758362740065,
                     0.127020445752845,
-                    0.128619588744108
+                    0.12857428384725497
                 ]
             }
         ]
@@ -264,7 +264,7 @@
                     0.34766333648416,
                     0.36288316657437997,
                     0.33113422170693596,
-                    0.335089777176216
+                    0.334610124510496
                 ]
             }
         ]
@@ -304,7 +304,7 @@
                     0.18149783268456,
                     0.189100613109533,
                     0.17277428715930998,
-                    0.174987972094689
+                    0.174718970376695
                 ]
             }
         ]
@@ -325,10 +325,10 @@
                 "name": "Account Value in BTC",
                 "color": "blue",
                 "data": [
-                    0.07132293225454199,
-                    0.128619588744108,
-                    0.335089777176216,
-                    0.174987972094689
+                    0.071391619176754,
+                    0.12857428384725497,
+                    0.334610124510496,
+                    0.174718970376695
                 ]
             }
         ]
@@ -342,22 +342,22 @@
             {
                 "name": "Short Term",
                 "color": "blue-light",
-                "data": 10.04519662902929
+                "data": 10.065151930719221
             },
             {
                 "name": "Medium Term",
                 "color": "green-light",
-                "data": 18.11491785935609
+                "data": 18.12705351453103
             },
             {
                 "name": "Long Term",
                 "color": "yellow-light",
-                "data": 47.19439587957132
+                "data": 47.175029500544625
             },
             {
                 "name": "Long Term",
                 "color": "red-light",
-                "data": 24.6454896320433
+                "data": 24.632765054205123
             }
         ]
     }
