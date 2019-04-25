@@ -6,13 +6,11 @@ _site/
 /.asset-cache/
 .DS_Store
 /_test/
-src/assets/css/*.css
 src/assets/plugins/**/plugin.css
 src/assets/plugins/**/plugin.min.css
 generated-site
 deploy-site
 /commits.sh
-/assets/css/
 /vendor/
 /package-lock.json
 Gemfile.lock
