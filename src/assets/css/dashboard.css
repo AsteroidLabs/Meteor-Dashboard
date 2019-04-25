@@ -11838,7 +11838,8 @@ body.fixed-header .page {
 }
 
 .header {
-  
+  padding-top: .75rem;
+  padding-bottom: .75rem;
   background: #fff;
   border-bottom: 1px solid rgba(0, 40, 100, 0.12);
 }
@@ -11889,8 +11890,7 @@ body.fixed-header .header {
 }
 
 .header-brand-img {
-  margin-top:0.5rem;
-  height: 2.5rem;
+  height: 2rem;
   line-height: 2rem;
   vertical-align: bottom;
   margin-right: .5rem;
