@@ -1,0 +1,113 @@
+{
+
+  "portfolioTodayValueBtc":{
+  	"number": 0.98,
+  	"percentage": 4.5
+  },
+  "portfolioTodayValueUsdt":{
+  	"number": "$4678",
+  	"percentage": 8.5
+  },
+  "portfolioTodayGainsBtc":{
+  	"number": 0.014
+  },
+   "portfolioTodayGainsUsdt":{
+  	"number": "$568"
+  },
+  "portfolioTodayQtyOrders":{
+  	"number": 4,
+  	"percentage": 14
+  },
+   "portfolioTodaySellingTimeAvg":{
+  	"number": "23m",
+  	"percentage": -12
+  },
+    "shortTermTodayValueBtc":{
+  	"number": 0.98,
+  	"percentage": 4.5
+  },
+  	"portfolioToday":{
+	    "name": "Portfolio Value",
+	    "display": true,
+	    "type": "area-spline",
+	    "hide-legend": true,
+	    "categories": [1,2,3,4,5,6,7,8,9],
+	    "series": [
+	      {
+	        "name": "BTC",
+	        "color": "yellow",
+	        "data": [12,14,16,17,2,4,5,6]
+	      }
+	    ]
+  },
+  "shortTermToday": {
+    "name": "Short Value",
+    "display": true,
+    "type": "area-spline",
+    "hide-legend": true,
+    "categories": [1,2,3,4,5,6,7,8,9],
+    "series": [
+      {
+        "name": "BTC",
+        "color": "yellow",
+        "data": [5,8,6,2,6,79,3,2,6,42,0]
+      }
+    ]
+  },
+  "barStackedToday": {
+      "name": "Accounts Value in Portfolio",
+      "display": true,
+      "type": "bar",
+      "hide-legend": false,
+      "categories": [
+        "Short Term",
+        "Medium Term",
+        "Long Term",
+        "Longer Term"
+      ],
+      "series": [
+        {
+          "name": "Account Value in BTC",
+          "color": "blue",
+          "data": [98,546,4,7]
+        }
+      ]
+    },
+
+    "donutToday": {
+      "name": "Accounts % in Portfolio",
+      "display": true,
+      "type": "donut",
+      "hide-legend": false,
+      "series": [
+        {
+          "name": "Short Term",
+          "color": "blue-light",
+          "data": [
+            "(0.0757/(0.0757+0.1364+0.3741+0.1948)*100)"
+          ]
+        },
+        {
+          "name": "Medium Term",
+          "color": "green-light",
+          "data": [
+            "(0.1364/(0.0757+0.1364+0.3741+0.1948)*100)"
+          ]
+        },
+        {
+          "name": "Long Term",
+          "color": "yellow-light",
+          "data": [
+            "(0.3741/(0.0757+0.1364+0.3741+0.1948)*100)"
+          ]
+        },
+        {
+          "name": "Long Term",
+          "color": "red-light",
+          "data": [
+            "(0.1948/(0.0757+0.1364+0.3741+0.1948)*100)"
+          ]
+        }
+      ]
+    }
+ }

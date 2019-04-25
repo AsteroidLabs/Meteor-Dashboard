@@ -1,5 +1,5 @@
 {% removeemptylines %}
-{% assign data = site.data.charts[include.data] %}
+{% assign data = site.data.todayValues[include.data] %}
 {% if data %}
 <script>
 require(['c3', 'jquery'], function(c3, $) {

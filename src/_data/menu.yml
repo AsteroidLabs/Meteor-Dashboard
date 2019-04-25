@@ -1,119 +1,99 @@
 index:
-  name: Home
-  icon: fe fe-home
-  url: index.html
-
-interface:
-  name: Interface
-  icon: fe fe-box
+  name: Today
+  icon: fe fe-zap
   subpages:
-    cards:
-      name: Cards design
-      icon: fe fe-box
-      url: cards.html
+    portfolio:
+      name: Portfolio
+      url: index.html
 
-    charts:
-      name: Charts
-      icon: fe fe-pie-chart
-      url: charts.html
+    short:
+      name: Short Term
+      icon: fe fe-pie-chart-2
+      url: today-s.html
 
-    pricing-cards:
-      name: Pricing cards
-      url: pricing-cards.html
+    medium:
+      name: Medium Term
+      url: today-m.html
 
-components:
-  name: Components
-  icon: fe fe-calendar
+    long:
+      name: Long Term
+      url: today-l.html
+
+    longer:
+      name: Longer Term
+      url: week-le.html
+
+thisweek:
+  name: This Week
+  icon: fe fe-activity
   subpages:
-    maps:
-      name: Maps
-      url: maps.html
+    portfolio:
+      name: Portfolio
+      url: week.html
 
-    icons:
-      name: Icons
-      url: icons.html
+    short:
+      name: Short Term
+      icon: fe fe-pie-chart-2
+      url: week-s.html
 
-    store:
-      name: Store
-      url: store.html
+    medium:
+      name: Medium Term
+      url: week-m.html
+    
+    long:
+      name: Long Term
+      url: week-l.html
 
-    blog:
-      name: Blog
-      url: blog.html
+    longer:
+      name: Longer Term
+      url: week-le.html
 
-    carousel:
-      name: Carousel
-      url: carousel.html
-
-pages:
-  name: Pages
-  icon: fe fe-file
+thismonth:
+  name: This Month
+  icon: fe fe-bar-chart-2
   subpages:
-    profile:
-      name: Profile
-      icon: fe fe-user
-      url: profile.html
+    portfolio:
+      name: Portfolio
+      url: month.html
 
-    login:
-      name: Login
-      url: login.html
+    short:
+      name: Short Term
+      icon: fe fe-pie-chart-2
+      url: month-s.html
 
-    register:
-      name: Register
-      url: register.html
+    medium:
+      name: Medium Term
+      url: month-m.html
+    
+    long:
+      name: Long Term
+      url: month-l.html
 
-    forgot-password:
-      name: Forgot password
-      url: forgot-password.html
+    longer:
+      name: Longer Term
+      url: month-le.html
 
-    400:
-      name: 400 error
-      url: 400.html
+thisyear:
+  name: This Year
+  icon: fe fe-bar-chart
+  subpages:
+    portfolio:
+      name: Portfolio
+      url: year.html
 
-    401:
-      name: 401 error
-      url: 401.html
+    short:
+      name: Short Term
+      icon: fe fe-pie-chart-2
+      url: year-s.html
 
-    403:
-      name: 403 error
-      url: 403.html
+    medium:
+      name: Medium Term
+      url: year-m.html
+    
+    long:
+      name: Long Term
+      url: year-l.html
 
-    404:
-      name: 404 error
-      url: 404.html
-
-    500:
-      name: 500 error
-      url: 500.html
-
-    503:
-      name: 503 error
-      url: 503.html
-
-    email:
-      name: Email
-      url: email.html
-
-    empty:
-      name: Empty page
-      url: empty.html
-
-    rtl:
-      name: RTL mode
-      url: rtl.html
-
-forms:
-  name: Forms
-  icon: fe fe-check-square
-  url: form-elements.html
-
-gallery:
-  name: Gallery
-  icon: fe fe-image
-  url: gallery.html
-
-
-docs:
-  name: Documentation
-  icon: fe fe-file-text
-  url: docs/index.html
+    longer:
+      name: Longer Term
+      url: year-le.html
