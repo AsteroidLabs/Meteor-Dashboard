@@ -1,14 +1,14 @@
 {
     "mediumTermTodayValueBtc": {
-        "number": 0.12905217531053997,
+        "number": "0.1291",
         "percentage": "0.9"
     },
     "mediumTermTodayValueUsdt": {
-        "number": 702.3045190834648,
-        "percentage": "1.5"
+        "number": "700.7273",
+        "percentage": "1.3"
     },
     "mediumTermTodayQtyOrders": {
-        "number": 0,
+        "number": "0.0000",
         "percentage": 0
     },
     "mediumTermTodaySellingTimeAvg": {
@@ -16,21 +16,21 @@
         "percentage": 0
     },
     "mediumTermTodayGainsBtc": {
-        "number": "0.0011"
+        "number": "0.0012"
     },
     "mediumTermTodayGainsUsdt": {
-        "number": "10.7"
+        "number": "9.1"
     },
     "shortTermTodayValueBtc": {
-        "number": 0.07149086719223001,
-        "percentage": "0.1"
+        "number": "0.0723",
+        "percentage": "1.1"
     },
     "shortTermTodayValueUsdt": {
-        "number": 389.05472907745957,
-        "percentage": "0.8"
+        "number": "392.1323",
+        "percentage": "1.5"
     },
     "shortTermTodayQtyOrders": {
-        "number": 0,
+        "number": "0.0000",
         "percentage": 0
     },
     "shortTermTodaySellingTimeAvg": {
@@ -38,21 +38,21 @@
         "percentage": 0
     },
     "shortTermTodayGainsBtc": {
-        "number": "0.0001"
+        "number": "0.0008"
     },
     "shortTermTodayGainsUsdt": {
-        "number": "3.0"
+        "number": "6.0"
     },
     "longTermTodayValueBtc": {
-        "number": 0.33499112296584,
-        "percentage": "1.0"
+        "number": "0.3339",
+        "percentage": "0.6"
     },
     "longTermTodayValueUsdt": {
-        "number": 1823.0283910025607,
-        "percentage": "1.7"
+        "number": "1811.9651",
+        "percentage": "1.1"
     },
     "longTermTodayQtyOrders": {
-        "number": 0,
+        "number": "0.0000",
         "percentage": 0
     },
     "longTermTodaySellingTimeAvg": {
@@ -60,21 +60,21 @@
         "percentage": 0
     },
     "longTermTodayGainsBtc": {
-        "number": "0.0033"
+        "number": "0.0021"
     },
     "longTermTodayGainsUsdt": {
-        "number": "30.3"
+        "number": "19.2"
     },
     "longerTermTodayValueBtc": {
-        "number": 0.17492422695294,
-        "percentage": "0.9"
+        "number": "0.1744",
+        "percentage": "0.5"
     },
     "longerTermTodayValueUsdt": {
-        "number": 951.9411415624386,
-        "percentage": "1.5"
+        "number": "946.7357",
+        "percentage": "1.0"
     },
     "longerTermTodayQtyOrders": {
-        "number": 0,
+        "number": "0.0000",
         "percentage": 0
     },
     "longerTermTodaySellingTimeAvg": {
@@ -82,21 +82,33 @@
         "percentage": 0
     },
     "longerTermTodayGainsBtc": {
-        "number": "0.0015"
+        "number": "0.0009"
     },
     "longerTermTodayGainsUsdt": {
-        "number": "14.4"
+        "number": "9.2"
     },
     "portfolioTodayValueBtc": {
-        "number": 0.71045839242155,
-        "percentage": "0.8"
+        "number": "0.7097",
+        "percentage": "0.7"
+    },
+    "portfolioTodayGainsBtc": {
+        "number": "0.0050",
+        "percentage": 0
     },
     "portfolioTodayValueUsdt": {
-        "number": 3866.3287807259235,
-        "percentage": "1.5"
+        "number": "3852",
+        "percentage": "1.1"
+    },
+    "portfolioTodayGainsUsdt": {
+        "number": "43.5000",
+        "percentage": 0
     },
     "portfolioTodayQtyOrders": {
-        "number": 0,
+        "number": "0",
+        "percentage": 0
+    },
+    "portfolioTodaySellingTimeAvg": {
+        "number": "0m",
         "percentage": 0
     },
     "portfolioToday": {
@@ -105,38 +117,26 @@
         "type": "area-spline",
         "hide-legend": true,
         "categories": [
-            16,
-            16,
-            17,
-            18,
-            19,
-            19,
-            19,
-            20,
             21,
             21,
             22,
             22,
-            23
+            23,
+            24,
+            25
         ],
         "series": [
             {
                 "name": "BTC",
                 "color": "yellow",
                 "data": [
-                    0.751091784206076,
-                    0.7590856779801121,
-                    0.759149194546108,
-                    0.781027680414013,
-                    0.777938557706329,
-                    0.78854331209223,
-                    0.7848429029353461,
-                    0.7795137113408841,
-                    0.763822281078913,
-                    0.7567706225179249,
-                    0.7268857795359279,
-                    0.7453289938000249,
-                    0.704569761604951
+                    "0.7799",
+                    "0.7545",
+                    "0.7397",
+                    "0.7639",
+                    "0.6997",
+                    "0.7044",
+                    "0.7097"
                 ]
             }
         ]
@@ -147,12 +147,6 @@
         "type": "area-spline",
         "hide-legend": true,
         "categories": [
-            12,
-            13,
-            14,
-            15,
-            16,
-            18,
             19,
             20,
             21,
@@ -166,19 +160,13 @@
                 "name": "BTC",
                 "color": "yellow",
                 "data": [
-                    0.071202801571232,
-                    0.071214737045244,
-                    0.069899872779342,
-                    0.07445274480320901,
-                    0.074884118789096,
-                    0.07526011403101998,
-                    0.07567693204181199,
-                    0.074586738176464,
-                    0.072912335875576,
-                    0.07434201043052,
-                    0.068826195896864,
-                    0.07143080324809599,
-                    0.07149086719223001
+                    "0.0757",
+                    "0.0746",
+                    "0.0729",
+                    "0.0743",
+                    "0.0688",
+                    "0.0714",
+                    "0.0723"
                 ]
             }
         ]
@@ -189,14 +177,6 @@
         "type": "area-spline",
         "hide-legend": true,
         "categories": [
-            16,
-            16,
-            17,
-            18,
-            19,
-            19,
-            19,
-            20,
             21,
             21,
             22,
@@ -210,21 +190,13 @@
                 "name": "BTC",
                 "color": "yellow",
                 "data": [
-                    0.14156093764896197,
-                    0.141561129648962,
-                    0.14056354745209998,
-                    0.1379535314514,
-                    0.13653529513370402,
-                    0.13653529513370402,
-                    0.13643427348775203,
-                    0.136029667979922,
-                    0.13581982285237698,
-                    0.1358497824488,
-                    0.137621959995594,
-                    0.13758362740065,
-                    0.127020445752845,
-                    0.127933885603712,
-                    0.12905217531053997
+                    "0.1358",
+                    "0.1358",
+                    "0.1376",
+                    "0.1376",
+                    "0.1270",
+                    "0.1279",
+                    "0.1291"
                 ]
             }
         ]
@@ -235,14 +207,6 @@
         "type": "area-spline",
         "hide-legend": true,
         "categories": [
-            12,
-            13,
-            14,
-            15,
-            15,
-            16,
-            16,
-            18,
             19,
             20,
             21,
@@ -256,21 +220,13 @@
                 "name": "BTC",
                 "color": "yellow",
                 "data": [
-                    0.351988344637599,
-                    0.35415393369912807,
-                    0.35599098154887604,
-                    0.37008297826740305,
-                    0.37008297826740305,
-                    0.377932663693306,
-                    0.37794272409838203,
-                    0.382326566863,
-                    0.3735922896664,
-                    0.35747821652907197,
-                    0.34766333648416,
-                    0.36288316657437997,
-                    0.33113422170693596,
-                    0.331716408822188,
-                    0.33499112296584
+                    "0.3736",
+                    "0.3575",
+                    "0.3477",
+                    "0.3629",
+                    "0.3311",
+                    "0.3317",
+                    "0.3339"
                 ]
             }
         ]
@@ -281,12 +237,6 @@
         "type": "area-spline",
         "hide-legend": true,
         "categories": [
-            12,
-            13,
-            14,
-            15,
-            16,
-            18,
             19,
             20,
             21,
@@ -300,19 +250,13 @@
                 "name": "BTC",
                 "color": "yellow",
                 "data": [
-                    0.186339700348283,
-                    0.192155877586778,
-                    0.19269479276579,
-                    0.198538425892001,
-                    0.196436165516126,
-                    0.19881523923419997,
-                    0.1947889733074,
-                    0.186570738321498,
-                    0.18149783268456,
-                    0.189100613109533,
-                    0.17277428715930998,
-                    0.173431396576899,
-                    0.17492422695294
+                    "0.1948",
+                    "0.1866",
+                    "0.1815",
+                    "0.1891",
+                    "0.1728",
+                    "0.1734",
+                    "0.1744"
                 ]
             }
         ]
@@ -333,10 +277,10 @@
                 "name": "Account Value in BTC",
                 "color": "blue",
                 "data": [
-                    0.07149086719223001,
-                    0.12905217531053997,
-                    0.33499112296584,
-                    0.17492422695294
+                    "0.0723",
+                    "0.1291",
+                    "0.3339",
+                    "0.1744"
                 ]
             }
         ]
@@ -350,22 +294,22 @@
             {
                 "name": "Short Term",
                 "color": "blue-light",
-                "data": 10.062639551425125
+                "data": "10.1874"
             },
             {
                 "name": "Medium Term",
                 "color": "green-light",
-                "data": 18.164635211173206
+                "data": "18.1908"
             },
             {
                 "name": "Long Term",
                 "color": "yellow-light",
-                "data": 47.151406266599956
+                "data": "47.0480"
             },
             {
                 "name": "Long Term",
                 "color": "red-light",
-                "data": 24.621318970801717
+                "data": "24.5738"
             }
         ]
     }
