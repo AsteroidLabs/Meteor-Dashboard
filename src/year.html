@@ -1,0 +1,79 @@
+---
+layout: default
+title: Portfolio - Year
+menu: thisyear
+---
+
+
+<div class="container">
+
+	{% include page-title.html title="Year - Portfolio" %}
+
+	<div class="row row-cards">
+
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Value (BTC)" data="portfolioYearValueBtc" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Value (USD)" data="portfolioYearValueUsdt" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Yearly Earnings (BTC)" data="portfolioYearGainsBtc" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Yearly Earnings (USD)" data="portfolioYearGainsUsdt" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Trades" data="portfolioYearQtyOrders" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Selling Time Avg" data="portfolioYearSellingTimeAvg" %}
+		</div>
+	
+		<div class="col-12">
+			<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<h3 class="card-title">Portfolio Value</h3>
+					</div>
+					<div class="card-body">
+						<div id="chart-area-spline" style="height: 16rem"></div>
+					</div>
+					</div>
+					{% include js-charts.html id="chart-area-spline" data="portfolioYear" %}
+			</div>
+		</div>
+		</div>
+	
+
+
+
+
+
+
+
+		<div class="col-md-12 col-lg-12">
+			<div class="row">
+		
+				<div class="col-sm-12 col-lg-6">
+					{% include cards/chart-bg-2.html id="chart-bg-users-1" title="Short Term" color="blue" rate="shortTermYearValueBtc"  data="shortTermYear" %}
+				</div>
+				<div class="col-sm-12 col-lg-6">
+					{% include cards/chart-bg-2.html id="chart-bg-users-2" title="Medium Term" color="green" rate="mediumTermYearValueBtc"  data="mediumTermYear" %}
+				</div>
+			</div>
+		</div>
+			<div class="col-md-12 col-lg-12">
+			<div class="row">
+				<div class="col-sm-12 col-lg-6">
+					{% include cards/chart-bg-2.html id="chart-bg-users-3" title="Long Term" color="yellow" rate="longTermYearValueBtc"  data="longTermYear" %}
+				</div>
+				<div class="col-sm-12 col-lg-6">
+					{% include cards/chart-bg-2.html id="chart-bg-users-4" title="Longer Term" color="red" rate="longerTermYearValueBtc"  data="longerTermYear" %}
+				</div>
+			</div>
+		</div>
+</div>
+
+

@@ -1,0 +1,79 @@
+---
+layout: default
+title: Portfolio - Week
+menu: thisweek
+---
+
+
+<div class="container">
+
+	{% include page-title.html title="Week - Portfolio" %}
+
+	<div class="row row-cards">
+
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Value (BTC)" data="portfolioWeekValueBtc" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Value (USD)" data="portfolioWeekValueUsdt" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Weekly Earnings (BTC)" data="portfolioWeekGainsBtc" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Weekly Earnings (USD)" data="portfolioWeekGainsUsdt" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Trades" data="portfolioWeekQtyOrders" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Selling Time Avg" data="portfolioWeekSellingTimeAvg" %}
+		</div>
+	
+		<div class="col-12">
+			<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<h3 class="card-title">Portfolio Value</h3>
+					</div>
+					<div class="card-body">
+						<div id="chart-area-spline" style="height: 16rem"></div>
+					</div>
+					</div>
+					{% include js-charts.html id="chart-area-spline" data="portfolioWeek" %}
+			</div>
+		</div>
+		</div>
+	
+
+
+
+
+
+
+
+		<div class="col-md-12 col-lg-12">
+			<div class="row">
+		
+				<div class="col-sm-12 col-lg-6">
+					{% include cards/chart-bg-2.html id="chart-bg-users-1" title="Short Term" color="blue" rate="shortTermWeekValueBtc"  data="shortTermWeek" %}
+				</div>
+				<div class="col-sm-12 col-lg-6">
+					{% include cards/chart-bg-2.html id="chart-bg-users-2" title="Medium Term" color="green" rate="mediumTermWeekValueBtc"  data="mediumTermWeek" %}
+				</div>
+			</div>
+		</div>
+			<div class="col-md-12 col-lg-12">
+			<div class="row">
+				<div class="col-sm-12 col-lg-6">
+					{% include cards/chart-bg-2.html id="chart-bg-users-3" title="Long Term" color="yellow" rate="longTermWeekValueBtc"  data="longTermWeek" %}
+				</div>
+				<div class="col-sm-12 col-lg-6">
+					{% include cards/chart-bg-2.html id="chart-bg-users-4" title="Longer Term" color="red" rate="longerTermWeekValueBtc"  data="longerTermWeek" %}
+				</div>
+			</div>
+		</div>
+</div>
+
+

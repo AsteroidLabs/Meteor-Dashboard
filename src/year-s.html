@@ -1,0 +1,51 @@
+---
+layout: default
+title: Short Term - Year
+menu: thisyear
+---
+
+
+<div class="container">
+
+	{% include page-title.html title="Year - Short Term" %}
+
+	<div class="row row-cards">
+
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Value (BTC)" data="shortTermYearValueBtc" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Value (USD)" data="shortTermYearValueUsdt" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Yearly Earnings (BTC)" data="shortTermYearGainsBtc" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Yearly Earnings (USD)" data="shortTermYearGainsUsdt" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Trades" data="shortTermYearQtyOrders" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Selling Time Avg" data="shortTermYearSellingTimeAvg" %}
+		</div>
+	
+		<div class="col-12">
+			<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<h3 class="card-title">Account Value</h3>
+					</div>
+					<div class="card-body">
+						<div id="chart-area-spline" style="height: 16rem"></div>
+					</div>
+					</div>
+					{% include js-charts.html id="chart-area-spline" data="shortTermYear" %}
+			</div>
+		</div>
+		</div>
+
+</div>
+
+

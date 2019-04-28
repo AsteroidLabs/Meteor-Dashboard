@@ -1,0 +1,50 @@
+---
+layout: default
+title: Long Term - Today
+menu: index
+---
+
+
+<div class="container">
+
+	{% include page-title.html title="Today - Long Term" %}
+
+	<div class="row row-cards">
+
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Value (BTC)" data="longTermTodayValueBtc" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Value (USD)" data="longTermTodayValueUsdt" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Daily Earnings (BTC)" data="longTermTodayGainsBtc" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Daily Earnings (USD)" data="longTermTodayGainsUsdt" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Trades" data="longTermTodayQtyOrders" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-2">
+			{% include cards/stats-1.html title="Selling Time Avg" data="longTermTodaySellingTimeAvg" %}
+		</div>
+	
+		<div class="col-12">
+			<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<h3 class="card-title">Account Value</h3>
+					</div>
+					<div class="card-body">
+						<div id="chart-area-spline" style="height: 16rem"></div>
+					</div>
+					</div>
+					{% include js-charts.html id="chart-area-spline" data="longTermToday" %}
+			</div>
+		</div>
+		</div>
+</div>
+
+
