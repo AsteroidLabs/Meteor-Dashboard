@@ -1,36 +1,36 @@
 {
     "mediumTermTodayValueBtc": {
-        "number": "0.1265",
-        "percentage": "1.2"
+        "number": "0.1395",
+        "percentage": "1.5"
     },
     "mediumTermTodayValueUsdt": {
-        "number": "672",
-        "percentage": "1.6"
+        "number": "803",
+        "percentage": "3.9"
     },
     "mediumTermTodayQtyOrders": {
-        "number": "0",
-        "percentage": 0
+        "number": "19",
+        "percentage": "-31.6"
     },
     "mediumTermTodaySellingTimes": {
-        "number": "1.0"
+        "number": "738.6"
     },
     "mediumTermTodaySellingTimeAvg": {
-        "number": "1.0 m",
-        "percentage": 0
+        "number": "12.3 h",
+        "percentage": "80.8"
     },
     "mediumTermTodayGainsBtc": {
-        "number": "0.0016"
+        "number": "0.0021"
     },
     "mediumTermTodayGainsUsdt": {
-        "number": "10.5"
+        "number": "31.0"
     },
     "shortTermTodayValueBtc": {
-        "number": "0.0687",
-        "percentage": "0.7"
+        "number": "0.0849",
+        "percentage": "8.9"
     },
     "shortTermTodayValueUsdt": {
-        "number": "365",
-        "percentage": "1.0"
+        "number": "489",
+        "percentage": "11.1"
     },
     "shortTermTodayQtyOrders": {
         "number": "0",
@@ -44,18 +44,18 @@
         "percentage": 0
     },
     "shortTermTodayGainsBtc": {
-        "number": "0.0005"
+        "number": "0.0076"
     },
     "shortTermTodayGainsUsdt": {
-        "number": "3.6"
+        "number": "54.3"
     },
     "longTermTodayValueBtc": {
-        "number": "0.3327",
-        "percentage": "2.3"
+        "number": "0.2934",
+        "percentage": "3.6"
     },
     "longTermTodayValueUsdt": {
-        "number": "1767",
-        "percentage": "2.6"
+        "number": "1690",
+        "percentage": "5.9"
     },
     "longTermTodayQtyOrders": {
         "number": "0",
@@ -69,18 +69,18 @@
         "percentage": 0
     },
     "longTermTodayGainsBtc": {
-        "number": "0.0077"
+        "number": "0.0106"
     },
     "longTermTodayGainsUsdt": {
-        "number": "45.9"
+        "number": "100.3"
     },
     "longerTermTodayValueBtc": {
-        "number": "0.1739",
-        "percentage": "2.2"
+        "number": "0.1535",
+        "percentage": "3.5"
     },
     "longerTermTodayValueUsdt": {
-        "number": "924",
-        "percentage": "2.5"
+        "number": "884",
+        "percentage": "5.8"
     },
     "longerTermTodayQtyOrders": {
         "number": "0",
@@ -94,27 +94,31 @@
         "percentage": 0
     },
     "longerTermTodayGainsBtc": {
-        "number": "0.0039"
+        "number": "0.0053"
     },
     "longerTermTodayGainsUsdt": {
-        "number": "23.4"
+        "number": "51.3"
     },
     "portfolioTodayValueBtc": {
-        "number": "0.7018",
-        "percentage": "2.0"
+        "number": "0.6713",
+        "percentage": "3.8"
     },
     "portfolioTodayGainsBtc": {
-        "number": "0.0137"
+        "number": "0.0256"
     },
     "portfolioTodayValueUsdt": {
-        "number": "3728",
-        "percentage": "2.2"
+        "number": "3866",
+        "percentage": "6.1"
     },
     "portfolioTodayGainsUsdt": {
-        "number": "83.4"
+        "number": "236.9"
+    },
+    "portfolioTodayBetterThanBtc": {
+        "number": "YES",
+        "percentage": 2.3
     },
     "portfolioTodayQtyOrders": {
-        "number": "0",
+        "number": "19",
         "percentage": 0
     },
     "portfolioTodaySellingTimeAvg": {
@@ -122,369 +126,381 @@
         "percentage": 0
     },
     "mediumTermWeekValueBtc": {
-        "number": "0.1265",
-        "percentage": "-7.5"
+        "number": "0.1395",
+        "percentage": "1.1"
     },
     "mediumTermWeekValueUsdt": {
-        "number": "672",
-        "percentage": "-7.1"
+        "number": "803",
+        "percentage": "1.4"
     },
     "mediumTermWeekQtyOrders": {
-        "number": "58",
-        "percentage": 0
+        "number": "339",
+        "percentage": "-1452.6"
     },
     "mediumTermWeekSellingTimes": {
-        "number": "1.0"
+        "number": "10035636"
     },
     "mediumTermWeekSellingTimeAvg": {
-        "number": "1.0 m",
-        "percentage": 0
+        "number": "1.2 d",
+        "percentage": "82.0"
     },
     "mediumTermWeekGainsBtc": {
-        "number": "-0.0095"
+        "number": "0.0016"
     },
     "mediumTermWeekGainsUsdt": {
-        "number": "-48.0"
+        "number": "10.9"
     },
     "shortTermWeekValueBtc": {
-        "number": "0.0687",
-        "percentage": "-8.6"
+        "number": "0.0849",
+        "percentage": "13.7"
     },
     "shortTermWeekValueUsdt": {
-        "number": "365",
-        "percentage": "-8.3"
+        "number": "489",
+        "percentage": "13.9"
     },
     "shortTermWeekQtyOrders": {
-        "number": "2",
+        "number": "0",
         "percentage": 0
     },
     "shortTermWeekSellingTimes": {
-        "number": "1.0"
+        "number": "0"
     },
     "shortTermWeekSellingTimeAvg": {
-        "number": "1.0 m",
+        "number": "0.0 m",
         "percentage": 0
     },
     "shortTermWeekGainsBtc": {
-        "number": "-0.0059"
+        "number": "0.0117"
     },
     "shortTermWeekGainsUsdt": {
-        "number": "-30.1"
+        "number": "68.2"
     },
     "longTermWeekValueBtc": {
-        "number": "0.3327",
-        "percentage": "-7.4"
+        "number": "0.2934",
+        "percentage": "1.5"
     },
     "longTermWeekValueUsdt": {
-        "number": "1767",
-        "percentage": "-7.1"
+        "number": "1690",
+        "percentage": "1.8"
     },
     "longTermWeekQtyOrders": {
         "number": "0",
         "percentage": 0
     },
     "longTermWeekSellingTimes": {
-        "number": "1.0"
+        "number": "0"
     },
     "longTermWeekSellingTimeAvg": {
-        "number": "1.0 m",
+        "number": "0.0 m",
         "percentage": 0
     },
     "longTermWeekGainsBtc": {
-        "number": "-0.0248"
+        "number": "0.0044"
     },
     "longTermWeekGainsUsdt": {
-        "number": "-125.4"
+        "number": "30.2"
     },
     "longerTermWeekValueBtc": {
-        "number": "0.1739",
-        "percentage": "-7.3"
+        "number": "0.1535",
+        "percentage": "1.4"
     },
     "longerTermWeekValueUsdt": {
-        "number": "924",
-        "percentage": "-6.9"
+        "number": "884",
+        "percentage": "1.7"
     },
     "longerTermWeekQtyOrders": {
         "number": "0",
         "percentage": 0
     },
     "longerTermWeekSellingTimes": {
-        "number": "1.0"
+        "number": "0"
     },
     "longerTermWeekSellingTimeAvg": {
-        "number": "1.0 m",
+        "number": "0.0 m",
         "percentage": 0
     },
     "longerTermWeekGainsBtc": {
-        "number": "-0.0127"
+        "number": "0.0022"
     },
     "longerTermWeekGainsUsdt": {
-        "number": "-64.1"
+        "number": "15.1"
     },
     "portfolioWeekValueBtc": {
-        "number": "0.7018",
-        "percentage": "-7.5"
+        "number": "0.6713",
+        "percentage": "3.0"
     },
     "portfolioWeekGainsBtc": {
-        "number": "-0.0529"
+        "number": "0.0199"
     },
     "portfolioWeekValueUsdt": {
-        "number": "3728",
-        "percentage": "-7.2"
+        "number": "3866",
+        "percentage": "3.2"
     },
     "portfolioWeekGainsUsdt": {
-        "number": "-267.6"
+        "number": "124.4"
+    },
+    "portfolioWeekBetterThanBtc": {
+        "number": "YES",
+        "percentage": 0.20000000000000018
     },
     "portfolioWeekQtyOrders": {
-        "number": "60",
+        "number": "339",
         "percentage": 0
     },
     "portfolioWeekSellingTimeAvg": {
-        "number": "0.0 m",
+        "number": "41.8 m",
         "percentage": 0
     },
     "mediumTermMonthValueBtc": {
-        "number": "0.1265",
-        "percentage": "-13.1"
+        "number": "0.1395",
+        "percentage": "10.2"
     },
     "mediumTermMonthValueUsdt": {
-        "number": "672",
-        "percentage": "-7.7"
+        "number": "803",
+        "percentage": "17.1"
     },
     "mediumTermMonthQtyOrders": {
-        "number": "1387",
+        "number": "364",
         "percentage": 0
     },
     "mediumTermMonthSellingTimes": {
-        "number": "1.0"
+        "number": "9394030"
     },
     "mediumTermMonthSellingTimeAvg": {
-        "number": "1.0 m",
+        "number": "1.1 d",
         "percentage": 0
     },
     "mediumTermMonthGainsBtc": {
-        "number": "-0.0166"
+        "number": "0.0143"
     },
     "mediumTermMonthGainsUsdt": {
-        "number": "-51.7"
+        "number": "137.0"
     },
     "shortTermMonthValueBtc": {
-        "number": "0.0687",
-        "percentage": "-3.7"
+        "number": "0.0849",
+        "percentage": "13.4"
     },
     "shortTermMonthValueUsdt": {
-        "number": "365",
-        "percentage": "1.2"
+        "number": "489",
+        "percentage": "20.1"
     },
     "shortTermMonthQtyOrders": {
-        "number": "14",
+        "number": "17",
         "percentage": 0
     },
     "shortTermMonthSellingTimes": {
-        "number": "1.0"
+        "number": "7911802"
     },
     "shortTermMonthSellingTimeAvg": {
-        "number": "1.0 m",
+        "number": "22.0 h",
         "percentage": 0
     },
     "shortTermMonthGainsBtc": {
-        "number": "-0.0025"
+        "number": "0.0114"
     },
     "shortTermMonthGainsUsdt": {
-        "number": "4.5"
+        "number": "98.1"
     },
     "longTermMonthValueBtc": {
-        "number": "0.3327",
-        "percentage": "-5.8"
+        "number": "0.2934",
+        "percentage": "-7.5"
     },
     "longTermMonthValueUsdt": {
-        "number": "1767",
-        "percentage": "-0.7"
+        "number": "1690",
+        "percentage": "0.7"
     },
     "longTermMonthQtyOrders": {
-        "number": "44",
+        "number": "0",
         "percentage": 0
     },
     "longTermMonthSellingTimes": {
-        "number": "1.0"
+        "number": "0"
     },
     "longTermMonthSellingTimeAvg": {
-        "number": "1.0 m",
-        "percentage": 0
-    },
-    "longTermMonthGainsBtc": {
-        "number": "-0.0193"
-    },
-    "longTermMonthGainsUsdt": {
-        "number": "-13.0"
-    },
-    "longerTermMonthValueBtc": {
-        "number": "0.1739",
-        "percentage": "-7.2"
-    },
-    "longerTermMonthValueUsdt": {
-        "number": "924",
-        "percentage": "-2.0"
-    },
-    "longerTermMonthQtyOrders": {
-        "number": "20",
-        "percentage": 0
-    },
-    "longerTermMonthSellingTimes": {
-        "number": "1.0"
-    },
-    "longerTermMonthSellingTimeAvg": {
-        "number": "1.0 m",
-        "percentage": 0
-    },
-    "longerTermMonthGainsBtc": {
-        "number": "-0.0125"
-    },
-    "longerTermMonthGainsUsdt": {
-        "number": "-18.8"
-    },
-    "portfolioMonthValueBtc": {
-        "number": "0.7018",
-        "percentage": "-7.3"
-    },
-    "portfolioMonthGainsBtc": {
-        "number": "-0.0509"
-    },
-    "portfolioMonthValueUsdt": {
-        "number": "3728",
-        "percentage": "-2.1"
-    },
-    "portfolioMonthGainsUsdt": {
-        "number": "-79.0"
-    },
-    "portfolioMonthQtyOrders": {
-        "number": "1465",
-        "percentage": 0
-    },
-    "portfolioMonthSellingTimeAvg": {
         "number": "0.0 m",
         "percentage": 0
     },
+    "longTermMonthGainsBtc": {
+        "number": "-0.0221"
+    },
+    "longTermMonthGainsUsdt": {
+        "number": "12.2"
+    },
+    "longerTermMonthValueBtc": {
+        "number": "0.1535",
+        "percentage": "-7.3"
+    },
+    "longerTermMonthValueUsdt": {
+        "number": "884",
+        "percentage": "1.0"
+    },
+    "longerTermMonthQtyOrders": {
+        "number": "0",
+        "percentage": 0
+    },
+    "longerTermMonthSellingTimes": {
+        "number": "0"
+    },
+    "longerTermMonthSellingTimeAvg": {
+        "number": "0.0 m",
+        "percentage": 0
+    },
+    "longerTermMonthGainsBtc": {
+        "number": "-0.0112"
+    },
+    "longerTermMonthGainsUsdt": {
+        "number": "8.4"
+    },
+    "portfolioMonthValueBtc": {
+        "number": "0.6713",
+        "percentage": "-1.1"
+    },
+    "portfolioMonthGainsBtc": {
+        "number": "-0.0076"
+    },
+    "portfolioMonthValueUsdt": {
+        "number": "3866",
+        "percentage": "6.6"
+    },
+    "portfolioMonthGainsUsdt": {
+        "number": "255.7"
+    },
+    "portfolioMonthBetterThanBtc": {
+        "number": "YES",
+        "percentage": 7.699999999999999
+    },
+    "portfolioMonthQtyOrders": {
+        "number": "381",
+        "percentage": 0
+    },
+    "portfolioMonthSellingTimeAvg": {
+        "number": "1.2 h",
+        "percentage": 0
+    },
     "mediumTermYearValueBtc": {
-        "number": "0.1265",
-        "percentage": "-13.1"
+        "number": "0.1395",
+        "percentage": "-2.6"
     },
     "mediumTermYearValueUsdt": {
-        "number": "672",
-        "percentage": "-7.7"
+        "number": "803",
+        "percentage": "9.9"
     },
     "mediumTermYearQtyOrders": {
-        "number": "1387",
+        "number": "1751",
         "percentage": 0
     },
     "mediumTermYearSellingTimes": {
-        "number": "1.0"
+        "number": "9532002"
     },
     "mediumTermYearSellingTimeAvg": {
-        "number": "1.0 m",
+        "number": "1.1 d",
         "percentage": 0
     },
     "mediumTermYearGainsBtc": {
-        "number": "-0.0166"
+        "number": "-0.0036"
     },
     "mediumTermYearGainsUsdt": {
-        "number": "-51.7"
+        "number": "79.4"
     },
     "shortTermYearValueBtc": {
-        "number": "0.0687",
-        "percentage": "-3.7"
+        "number": "0.0849",
+        "percentage": "16.2"
     },
     "shortTermYearValueUsdt": {
-        "number": "365",
-        "percentage": "1.2"
+        "number": "489",
+        "percentage": "26.4"
     },
     "shortTermYearQtyOrders": {
-        "number": "14",
+        "number": "31",
         "percentage": 0
     },
     "shortTermYearSellingTimes": {
-        "number": "1.0"
+        "number": "5881528"
     },
     "shortTermYearSellingTimeAvg": {
-        "number": "1.0 m",
+        "number": "16.3 h",
         "percentage": 0
     },
     "shortTermYearGainsBtc": {
-        "number": "-0.0025"
+        "number": "0.0137"
     },
     "shortTermYearGainsUsdt": {
-        "number": "4.5"
+        "number": "129.0"
     },
     "longTermYearValueBtc": {
-        "number": "0.3327",
-        "percentage": "-5.8"
+        "number": "0.2934",
+        "percentage": "-20.0"
     },
     "longTermYearValueUsdt": {
-        "number": "1767",
-        "percentage": "-0.7"
+        "number": "1690",
+        "percentage": "-5.3"
     },
     "longTermYearQtyOrders": {
         "number": "44",
         "percentage": 0
     },
     "longTermYearSellingTimes": {
-        "number": "1.0"
+        "number": "198296377"
     },
     "longTermYearSellingTimeAvg": {
-        "number": "1.0 m",
-        "percentage": 0
+        "number": "23.0 d",
+        "percentage": "-129219.0"
     },
     "longTermYearGainsBtc": {
-        "number": "-0.0193"
+        "number": "-0.0586"
     },
     "longTermYearGainsUsdt": {
-        "number": "-13.0"
+        "number": "-90.3"
     },
     "longerTermYearValueBtc": {
-        "number": "0.1739",
-        "percentage": "-7.2"
+        "number": "0.1535",
+        "percentage": "-21.4"
     },
     "longerTermYearValueUsdt": {
-        "number": "924",
-        "percentage": "-2.0"
+        "number": "884",
+        "percentage": "-6.6"
     },
     "longerTermYearQtyOrders": {
         "number": "20",
         "percentage": 0
     },
     "longerTermYearSellingTimes": {
-        "number": "1.0"
+        "number": "108917530"
     },
     "longerTermYearSellingTimeAvg": {
-        "number": "1.0 m",
-        "percentage": 0
+        "number": "12.6 d",
+        "percentage": "-264480.0"
     },
     "longerTermYearGainsBtc": {
-        "number": "-0.0125"
+        "number": "-0.0328"
     },
     "longerTermYearGainsUsdt": {
-        "number": "-18.8"
+        "number": "-58.4"
     },
     "portfolioYearValueBtc": {
-        "number": "0.7018",
-        "percentage": "-7.3"
+        "number": "0.6713",
+        "percentage": "-12.1"
     },
     "portfolioYearGainsBtc": {
-        "number": "-0.0509"
+        "number": "-0.0813"
     },
     "portfolioYearValueUsdt": {
-        "number": "3728",
-        "percentage": "-2.1"
+        "number": "3866",
+        "percentage": "1.5"
     },
     "portfolioYearGainsUsdt": {
-        "number": "-79.0"
+        "number": "59.7"
+    },
+    "portfolioYearBetterThanBtc": {
+        "number": "YES",
+        "percentage": 13.6
     },
     "portfolioYearQtyOrders": {
-        "number": "1465",
+        "number": "1846",
         "percentage": 0
     },
     "portfolioYearSellingTimeAvg": {
-        "number": "0.0 m",
+        "number": "22.4 h",
         "percentage": 0
     },
     "portfolioToday": {
@@ -493,32 +509,30 @@
         "type": "area-spline",
         "hide-legend": true,
         "categories": [
-            21,
-            21,
-            22,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            27
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
                 "name": "BTC",
                 "color": "yellow",
                 "data": [
-                    "0.7799",
-                    "0.7545",
-                    "0.7397",
-                    "0.7639",
-                    "0.6997",
-                    "0.7044",
-                    "0.7012",
-                    "0.6881",
-                    "0.7018",
-                    "0.6892"
+                    "0.6878",
+                    "0.6737",
+                    "0.6905",
+                    "0.6789",
+                    "0.6746",
+                    "0.6797",
+                    "0.6515",
+                    "0.6459",
+                    "0.6713"
                 ]
             }
         ]
@@ -529,32 +543,30 @@
         "type": "area-spline",
         "hide-legend": true,
         "categories": [
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            27
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
                 "name": "BTC",
                 "color": "yellow",
                 "data": [
-                    "0.0757",
-                    "0.0746",
-                    "0.0729",
-                    "0.0743",
-                    "0.0688",
-                    "0.0714",
-                    "0.0693",
-                    "0.0682",
-                    "0.0687",
-                    "0.0683"
+                    "0.0717",
+                    "0.0717",
+                    "0.0739",
+                    "0.0735",
+                    "0.0710",
+                    "0.0736",
+                    "0.0733",
+                    "0.0774",
+                    "0.0849"
                 ]
             }
         ]
@@ -565,32 +577,30 @@
         "type": "area-spline",
         "hide-legend": true,
         "categories": [
-            21,
-            21,
-            22,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            27
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
                 "name": "BTC",
                 "color": "yellow",
                 "data": [
-                    "0.1358",
-                    "0.1358",
-                    "0.1376",
-                    "0.1376",
-                    "0.1270",
-                    "0.1279",
-                    "0.1268",
-                    "0.1249",
-                    "0.1265",
-                    "0.1254"
+                    "0.1246",
+                    "0.1228",
+                    "0.1248",
+                    "0.1252",
+                    "0.1239",
+                    "0.1416",
+                    "0.1379",
+                    "0.1374",
+                    "0.1395"
                 ]
             }
         ]
@@ -601,32 +611,30 @@
         "type": "area-spline",
         "hide-legend": true,
         "categories": [
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            27
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
                 "name": "BTC",
                 "color": "yellow",
                 "data": [
-                    "0.3736",
-                    "0.3575",
-                    "0.3477",
-                    "0.3629",
-                    "0.3311",
-                    "0.3317",
-                    "0.3318",
-                    "0.3250",
-                    "0.3327",
-                    "0.3255"
+                    "0.3228",
+                    "0.3148",
+                    "0.3232",
+                    "0.3155",
+                    "0.3149",
+                    "0.3050",
+                    "0.2890",
+                    "0.2829",
+                    "0.2934"
                 ]
             }
         ]
@@ -637,32 +645,30 @@
         "type": "area-spline",
         "hide-legend": true,
         "categories": [
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            27
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
                 "name": "BTC",
                 "color": "yellow",
                 "data": [
-                    "0.1948",
-                    "0.1866",
-                    "0.1815",
-                    "0.1891",
-                    "0.1728",
-                    "0.1734",
-                    "0.1733",
-                    "0.1700",
-                    "0.1739",
-                    "0.1700"
+                    "0.1687",
+                    "0.1644",
+                    "0.1686",
+                    "0.1647",
+                    "0.1648",
+                    "0.1595",
+                    "0.1513",
+                    "0.1482",
+                    "0.1535"
                 ]
             }
         ]
@@ -676,19 +682,27 @@
             12,
             13,
             14,
-            14,
             15,
             16,
-            16,
-            17,
             18,
-            19,
-            19,
             19,
             20,
             21,
-            21,
-            22
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
@@ -698,19 +712,27 @@
                     "0.7526",
                     "0.7611",
                     "0.7639",
-                    "0.7884",
-                    "0.7847",
-                    "0.7936",
-                    "0.7900",
-                    "0.7841",
-                    "0.7660",
-                    "0.7574",
-                    "0.7258",
-                    "0.7441",
-                    "0.7097",
-                    "0.7057",
-                    "0.7102",
-                    "0.7009"
+                    "0.7864",
+                    "0.7908",
+                    "0.7944",
+                    "0.7805",
+                    "0.7547",
+                    "0.7379",
+                    "0.7639",
+                    "0.6997",
+                    "0.7044",
+                    "0.7012",
+                    "0.6881",
+                    "0.6998",
+                    "0.6878",
+                    "0.6737",
+                    "0.6905",
+                    "0.6789",
+                    "0.6746",
+                    "0.6797",
+                    "0.6515",
+                    "0.6459",
+                    "0.6713"
                 ]
             }
         ]
@@ -736,7 +758,15 @@
             25,
             26,
             27,
-            27
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
@@ -757,8 +787,16 @@
                     "0.0714",
                     "0.0693",
                     "0.0682",
-                    "0.0687",
-                    "0.0683"
+                    "0.0685",
+                    "0.0717",
+                    "0.0717",
+                    "0.0739",
+                    "0.0735",
+                    "0.0710",
+                    "0.0736",
+                    "0.0733",
+                    "0.0774",
+                    "0.0849"
                 ]
             }
         ]
@@ -772,26 +810,28 @@
             12,
             13,
             14,
-            14,
             15,
-            16,
             16,
             17,
             18,
             19,
-            19,
-            19,
             20,
             21,
-            21,
-            22,
             22,
             23,
             24,
             25,
             26,
             27,
-            27
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
@@ -801,26 +841,28 @@
                     "0.1431",
                     "0.1435",
                     "0.1453",
-                    "0.1453",
                     "0.1433",
-                    "0.1416",
                     "0.1416",
                     "0.1406",
                     "0.1380",
-                    "0.1365",
-                    "0.1365",
                     "0.1364",
                     "0.1360",
                     "0.1358",
-                    "0.1358",
-                    "0.1376",
                     "0.1376",
                     "0.1270",
                     "0.1279",
                     "0.1268",
                     "0.1249",
-                    "0.1265",
-                    "0.1254"
+                    "0.1266",
+                    "0.1246",
+                    "0.1228",
+                    "0.1248",
+                    "0.1252",
+                    "0.1239",
+                    "0.1416",
+                    "0.1379",
+                    "0.1374",
+                    "0.1395"
                 ]
             }
         ]
@@ -835,8 +877,6 @@
             13,
             14,
             15,
-            15,
-            16,
             16,
             18,
             19,
@@ -848,7 +888,15 @@
             25,
             26,
             27,
-            27
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
@@ -859,8 +907,6 @@
                     "0.3542",
                     "0.3560",
                     "0.3701",
-                    "0.3701",
-                    "0.3779",
                     "0.3779",
                     "0.3823",
                     "0.3736",
@@ -871,8 +917,16 @@
                     "0.3317",
                     "0.3318",
                     "0.3250",
-                    "0.3327",
-                    "0.3255"
+                    "0.3314",
+                    "0.3228",
+                    "0.3148",
+                    "0.3232",
+                    "0.3155",
+                    "0.3149",
+                    "0.3050",
+                    "0.2890",
+                    "0.2829",
+                    "0.2934"
                 ]
             }
         ]
@@ -898,7 +952,15 @@
             25,
             26,
             27,
-            27
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
@@ -919,8 +981,16 @@
                     "0.1734",
                     "0.1733",
                     "0.1700",
-                    "0.1739",
-                    "0.1700"
+                    "0.1733",
+                    "0.1687",
+                    "0.1644",
+                    "0.1686",
+                    "0.1647",
+                    "0.1648",
+                    "0.1595",
+                    "0.1513",
+                    "0.1482",
+                    "0.1535"
                 ]
             }
         ]
@@ -934,19 +1004,27 @@
             12,
             13,
             14,
-            14,
             15,
             16,
-            16,
-            17,
             18,
-            19,
-            19,
             19,
             20,
             21,
-            21,
-            22
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
@@ -956,19 +1034,27 @@
                     "0.7526",
                     "0.7611",
                     "0.7639",
-                    "0.7884",
-                    "0.7847",
-                    "0.7936",
-                    "0.7900",
-                    "0.7841",
-                    "0.7660",
-                    "0.7574",
-                    "0.7258",
-                    "0.7441",
-                    "0.7097",
-                    "0.7057",
-                    "0.7102",
-                    "0.7009"
+                    "0.7864",
+                    "0.7908",
+                    "0.7944",
+                    "0.7805",
+                    "0.7547",
+                    "0.7379",
+                    "0.7639",
+                    "0.6997",
+                    "0.7044",
+                    "0.7012",
+                    "0.6881",
+                    "0.6998",
+                    "0.6878",
+                    "0.6737",
+                    "0.6905",
+                    "0.6789",
+                    "0.6746",
+                    "0.6797",
+                    "0.6515",
+                    "0.6459",
+                    "0.6713"
                 ]
             }
         ]
@@ -994,7 +1080,15 @@
             25,
             26,
             27,
-            27
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
@@ -1015,8 +1109,16 @@
                     "0.0714",
                     "0.0693",
                     "0.0682",
-                    "0.0687",
-                    "0.0683"
+                    "0.0685",
+                    "0.0717",
+                    "0.0717",
+                    "0.0739",
+                    "0.0735",
+                    "0.0710",
+                    "0.0736",
+                    "0.0733",
+                    "0.0774",
+                    "0.0849"
                 ]
             }
         ]
@@ -1030,26 +1132,28 @@
             12,
             13,
             14,
-            14,
             15,
-            16,
             16,
             17,
             18,
             19,
-            19,
-            19,
             20,
             21,
-            21,
-            22,
             22,
             23,
             24,
             25,
             26,
             27,
-            27
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
@@ -1059,26 +1163,28 @@
                     "0.1431",
                     "0.1435",
                     "0.1453",
-                    "0.1453",
                     "0.1433",
-                    "0.1416",
                     "0.1416",
                     "0.1406",
                     "0.1380",
-                    "0.1365",
-                    "0.1365",
                     "0.1364",
                     "0.1360",
                     "0.1358",
-                    "0.1358",
-                    "0.1376",
                     "0.1376",
                     "0.1270",
                     "0.1279",
                     "0.1268",
                     "0.1249",
-                    "0.1265",
-                    "0.1254"
+                    "0.1266",
+                    "0.1246",
+                    "0.1228",
+                    "0.1248",
+                    "0.1252",
+                    "0.1239",
+                    "0.1416",
+                    "0.1379",
+                    "0.1374",
+                    "0.1395"
                 ]
             }
         ]
@@ -1093,8 +1199,6 @@
             13,
             14,
             15,
-            15,
-            16,
             16,
             18,
             19,
@@ -1106,7 +1210,15 @@
             25,
             26,
             27,
-            27
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
@@ -1117,8 +1229,6 @@
                     "0.3542",
                     "0.3560",
                     "0.3701",
-                    "0.3701",
-                    "0.3779",
                     "0.3779",
                     "0.3823",
                     "0.3736",
@@ -1129,8 +1239,16 @@
                     "0.3317",
                     "0.3318",
                     "0.3250",
-                    "0.3327",
-                    "0.3255"
+                    "0.3314",
+                    "0.3228",
+                    "0.3148",
+                    "0.3232",
+                    "0.3155",
+                    "0.3149",
+                    "0.3050",
+                    "0.2890",
+                    "0.2829",
+                    "0.2934"
                 ]
             }
         ]
@@ -1156,7 +1274,15 @@
             25,
             26,
             27,
-            27
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
@@ -1177,8 +1303,16 @@
                     "0.1734",
                     "0.1733",
                     "0.1700",
-                    "0.1739",
-                    "0.1700"
+                    "0.1733",
+                    "0.1687",
+                    "0.1644",
+                    "0.1686",
+                    "0.1647",
+                    "0.1648",
+                    "0.1595",
+                    "0.1513",
+                    "0.1482",
+                    "0.1535"
                 ]
             }
         ]
@@ -1192,19 +1326,27 @@
             12,
             13,
             14,
-            14,
             15,
             16,
-            16,
-            17,
             18,
-            19,
-            19,
             19,
             20,
             21,
-            21,
-            22
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
@@ -1214,19 +1356,27 @@
                     "0.7526",
                     "0.7611",
                     "0.7639",
-                    "0.7884",
-                    "0.7847",
-                    "0.7936",
-                    "0.7900",
-                    "0.7841",
-                    "0.7660",
-                    "0.7574",
-                    "0.7258",
-                    "0.7441",
-                    "0.7097",
-                    "0.7057",
-                    "0.7102",
-                    "0.7009"
+                    "0.7864",
+                    "0.7908",
+                    "0.7944",
+                    "0.7805",
+                    "0.7547",
+                    "0.7379",
+                    "0.7639",
+                    "0.6997",
+                    "0.7044",
+                    "0.7012",
+                    "0.6881",
+                    "0.6998",
+                    "0.6878",
+                    "0.6737",
+                    "0.6905",
+                    "0.6789",
+                    "0.6746",
+                    "0.6797",
+                    "0.6515",
+                    "0.6459",
+                    "0.6713"
                 ]
             }
         ]
@@ -1252,7 +1402,15 @@
             25,
             26,
             27,
-            27
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
@@ -1273,8 +1431,16 @@
                     "0.0714",
                     "0.0693",
                     "0.0682",
-                    "0.0687",
-                    "0.0683"
+                    "0.0685",
+                    "0.0717",
+                    "0.0717",
+                    "0.0739",
+                    "0.0735",
+                    "0.0710",
+                    "0.0736",
+                    "0.0733",
+                    "0.0774",
+                    "0.0849"
                 ]
             }
         ]
@@ -1288,26 +1454,28 @@
             12,
             13,
             14,
-            14,
             15,
-            16,
             16,
             17,
             18,
             19,
-            19,
-            19,
             20,
             21,
-            21,
-            22,
             22,
             23,
             24,
             25,
             26,
             27,
-            27
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
@@ -1317,26 +1485,28 @@
                     "0.1431",
                     "0.1435",
                     "0.1453",
-                    "0.1453",
                     "0.1433",
-                    "0.1416",
                     "0.1416",
                     "0.1406",
                     "0.1380",
-                    "0.1365",
-                    "0.1365",
                     "0.1364",
                     "0.1360",
                     "0.1358",
-                    "0.1358",
-                    "0.1376",
                     "0.1376",
                     "0.1270",
                     "0.1279",
                     "0.1268",
                     "0.1249",
-                    "0.1265",
-                    "0.1254"
+                    "0.1266",
+                    "0.1246",
+                    "0.1228",
+                    "0.1248",
+                    "0.1252",
+                    "0.1239",
+                    "0.1416",
+                    "0.1379",
+                    "0.1374",
+                    "0.1395"
                 ]
             }
         ]
@@ -1351,8 +1521,6 @@
             13,
             14,
             15,
-            15,
-            16,
             16,
             18,
             19,
@@ -1364,7 +1532,15 @@
             25,
             26,
             27,
-            27
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
@@ -1375,8 +1551,6 @@
                     "0.3542",
                     "0.3560",
                     "0.3701",
-                    "0.3701",
-                    "0.3779",
                     "0.3779",
                     "0.3823",
                     "0.3736",
@@ -1387,8 +1561,16 @@
                     "0.3317",
                     "0.3318",
                     "0.3250",
-                    "0.3327",
-                    "0.3255"
+                    "0.3314",
+                    "0.3228",
+                    "0.3148",
+                    "0.3232",
+                    "0.3155",
+                    "0.3149",
+                    "0.3050",
+                    "0.2890",
+                    "0.2829",
+                    "0.2934"
                 ]
             }
         ]
@@ -1414,7 +1596,15 @@
             25,
             26,
             27,
-            27
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "series": [
             {
@@ -1435,8 +1625,16 @@
                     "0.1734",
                     "0.1733",
                     "0.1700",
-                    "0.1739",
-                    "0.1700"
+                    "0.1733",
+                    "0.1687",
+                    "0.1644",
+                    "0.1686",
+                    "0.1647",
+                    "0.1648",
+                    "0.1595",
+                    "0.1513",
+                    "0.1482",
+                    "0.1535"
                 ]
             }
         ]
@@ -1457,10 +1655,10 @@
                 "name": "Account Value in BTC",
                 "color": "blue",
                 "data": [
-                    "0.0683",
-                    "0.1254",
-                    "0.3255",
-                    "0.1700"
+                    "0.0739",
+                    "0.1248",
+                    "0.3232",
+                    "0.1686"
                 ]
             }
         ]
@@ -1474,22 +1672,22 @@
             {
                 "name": "Short Term",
                 "color": "blue-light",
-                "data": "9.9100"
+                "data": "10.7024"
             },
             {
                 "name": "Medium Term",
                 "color": "green-light",
-                "data": "18.1950"
+                "data": "18.0739"
             },
             {
                 "name": "Long Term",
                 "color": "yellow-light",
-                "data": "47.2287"
+                "data": "46.8067"
             },
             {
                 "name": "Long Term",
                 "color": "red-light",
-                "data": "24.6663"
+                "data": "24.4171"
             }
         ]
     }
