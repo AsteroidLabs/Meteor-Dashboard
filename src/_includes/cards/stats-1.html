@@ -13,7 +13,13 @@
 					{% endif %}
 				{% endif %}
 			</div>
+			{% if data.number == "YES" %}
+			<div class="h1 m-0 text-green">{{ data.number }}</div>
+			{% elsif data.number == "NO" %}
+			<div class="h1 m-0 text-red">{{ data.number }}</div>
+			{% else %}
 			<div class="h1 m-0">{{ data.number }}</div>
+			{% endif %}
 			<div class="text-muted mb-4">{{ include.title }}</div>
 		</div>
 	</div>
