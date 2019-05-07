@@ -11,22 +11,25 @@ menu: thismonth
 
 	<div class="row row-cards">
 
-		<div class="col-6 col-sm-4 col-lg-2">
+		<div class="col-6 col-sm-4 col-lg-4">
 			{% include cards/stats-1.html title="Value (BTC)" data="portfolioMonthValueBtc" %}
 		</div>
-		<div class="col-6 col-sm-4 col-lg-2">
+		<div class="col-6 col-sm-4 col-lg-4">
 			{% include cards/stats-1.html title="Value (USD)" data="portfolioMonthValueUsdt" %}
 		</div>
-		<div class="col-6 col-sm-4 col-lg-2">
+		<div class="col-6 col-sm-4 col-lg-4">
+			{% include cards/stats-1.html title="Better Than BTC" data="portfolioMonthBetterThanBtc" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-3">
 			{% include cards/stats-1.html title="Monthly Earnings (BTC)" data="portfolioMonthGainsBtc" %}
 		</div>
-		<div class="col-6 col-sm-4 col-lg-2">
+		<div class="col-6 col-sm-4 col-lg-3">
 			{% include cards/stats-1.html title="Monthly Earnings (USD)" data="portfolioMonthGainsUsdt" %}
 		</div>
-		<div class="col-6 col-sm-4 col-lg-2">
+		<div class="col-6 col-sm-4 col-lg-3">
 			{% include cards/stats-1.html title="Trades" data="portfolioMonthQtyOrders" %}
 		</div>
-		<div class="col-6 col-sm-4 col-lg-2">
+		<div class="col-6 col-sm-4 col-lg-3">
 			{% include cards/stats-1.html title="Selling Time Avg" data="portfolioMonthSellingTimeAvg" %}
 		</div>
 	
