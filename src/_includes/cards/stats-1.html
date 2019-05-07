@@ -4,7 +4,7 @@
 		<div class="card-body p-3 text-center">
 			{% assign percentage = data.percentage | plus: 0 %}
 			<div class="text-right {% if percentage > 0 %}text-green{% elsif percentage < 0 %}text-red{% endif %}">
-				&nbsp;{% if percentage %}
+				&nbsp;{% if percentage != 0 %}
 					{{ percentage }}%
 					{% if percentage > 0 %}
 						<i class="fe fe-chevron-up"></i>
