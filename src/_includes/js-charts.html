@@ -38,8 +38,15 @@ require(['c3', 'jquery'], function(c3, $) {
 				],
 				{% endif %}
 
-				colors: { {% for serie in data.series %}
-					'data{{ forloop.index }}': tabler.colors["{{ serie.color | default: 'blue' }}"]{% unless forloop.last %},{% endunless %}{% endfor %}
+				colors: {
+{% if data.series[0].colors %}
+{% for serie in data.series[0].colors %}
+'data{{ forloop.index }}': "{{ serie | default: '#91ce54' }}"{% unless forloop.last %},{% endunless %}{% endfor %}
+{% else %}
+{% for serie in data.series %}
+'data{{ forloop.index }}': "{{ serie.color | default: '#91ce54' }}"{% unless forloop.last %},{% endunless %}{% endfor %}
+{% endif %}
+					
 				},
 
 				names: {

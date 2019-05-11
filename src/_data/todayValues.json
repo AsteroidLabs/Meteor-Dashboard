@@ -522,7 +522,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#f4d560",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.6746",
                     "0.6797",
@@ -556,7 +560,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#80a6db",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.0710",
                     "0.0736",
@@ -590,7 +598,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#91ce54",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.1239",
                     "0.1416",
@@ -624,7 +636,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#f4d560",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.3149",
                     "0.3050",
@@ -658,7 +674,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#eb8279",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.1648",
                     "0.1595",
@@ -711,7 +731,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#f4d560",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.7526",
                     "0.7611",
@@ -783,7 +807,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#80a6db",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.0712",
                     "0.0712",
@@ -856,7 +884,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#91ce54",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.1431",
                     "0.1435",
@@ -929,7 +961,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#f4d560",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.3520",
                     "0.3542",
@@ -1001,7 +1037,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#eb8279",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.1863",
                     "0.1922",
@@ -1073,7 +1113,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#f4d560",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.7526",
                     "0.7611",
@@ -1145,7 +1189,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#80a6db",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.0712",
                     "0.0712",
@@ -1218,7 +1266,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#91ce54",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.1431",
                     "0.1435",
@@ -1291,7 +1343,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#f4d560",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.3520",
                     "0.3542",
@@ -1363,7 +1419,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#eb8279",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.1863",
                     "0.1922",
@@ -1435,7 +1495,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#f4d560",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.7526",
                     "0.7611",
@@ -1507,7 +1571,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#80a6db",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.0712",
                     "0.0712",
@@ -1580,7 +1648,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#91ce54",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.1431",
                     "0.1435",
@@ -1653,7 +1725,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#f4d560",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.3520",
                     "0.3542",
@@ -1725,7 +1801,11 @@
         "series": [
             {
                 "name": "BTC",
+<<<<<<< HEAD
                 "color": "yellow",
+=======
+                "color": "#eb8279",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.1863",
                     "0.1922",
@@ -1773,7 +1853,11 @@
         "series": [
             {
                 "name": "Account Value in BTC",
+<<<<<<< HEAD
                 "color": "blue",
+=======
+                "color": "#80a6db",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": [
                     "0.0739",
                     "0.1248",
@@ -1791,24 +1875,262 @@
         "series": [
             {
                 "name": "Short Term",
+<<<<<<< HEAD
                 "color": "blue-light",
+=======
+                "color": "#80a6db",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": "10.7024"
             },
             {
                 "name": "Medium Term",
+<<<<<<< HEAD
                 "color": "green-light",
+=======
+                "color": "#91ce54",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": "18.0739"
             },
             {
                 "name": "Long Term",
+<<<<<<< HEAD
                 "color": "yellow-light",
+=======
+                "color": "#f4d560",
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
                 "data": "46.8067"
             },
             {
                 "name": "Long Term",
+<<<<<<< HEAD
                 "color": "red-light",
                 "data": "24.4171"
             }
         ]
+=======
+                "color": "#eb8279",
+                "data": "24.4171"
+            }
+        ]
+    },
+    "donutTodayshortTerm": {
+        "name": "Account Currencies",
+        "display": true,
+        "type": "donut",
+        "hide-legend": false,
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#f8a642",
+                "data": [
+                    94.0908886620805
+                ]
+            }
+        ]
+    },
+    "donutTodaymediumTerm": {
+        "name": "Account Currencies",
+        "display": true,
+        "type": "donut",
+        "hide-legend": false,
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#f8a642",
+                "data": [
+                    6.315067986673692
+                ]
+            },
+            {
+                "name": "NEO",
+                "color": "#85d044",
+                "data": [
+                    7.088772878128878
+                ]
+            },
+            {
+                "name": "BNB",
+                "color": "#f5c44f",
+                "data": [
+                    2.6215792771627924
+                ]
+            },
+            {
+                "name": "TRX",
+                "color": "#191919",
+                "data": [
+                    3.0309325525066924
+                ]
+            },
+            {
+                "name": "DASH",
+                "color": "#32a3ec",
+                "data": [
+                    41.05926430097639
+                ]
+            },
+            {
+                "name": "GXS",
+                "color": "#67bbf6",
+                "data": [
+                    2.064220038709128
+                ]
+            },
+            {
+                "name": "ADA",
+                "color": "#223142",
+                "data": [
+                    35.97634947078733
+                ]
+            }
+        ]
+    },
+    "barStackedTodaymediumTerm": {
+        "name": "Account trades gains",
+        "display": true,
+        "type": "bar",
+        "colors":true,
+        "hide-legend": false,
+        "categories": [
+            "ADABTC",
+            "NEOBTC",
+            "DASHBTC",
+            "TRXUSDT"
+        ],
+        "series": [
+            {
+                "name": "Trade Gains in %",
+                "colors": [
+                    "#eb8279",
+                    "#eb8279",
+                    "#eb8279",
+                    "#eb8279"
+                ],
+                "data": [
+                    "-35.81",
+                    "-16.03",
+                    "-28.97",
+                    "-8.87"
+                ]
+            }
+        ]
+    },
+    "donutTodaylongTerm": {
+        "name": "Account Currencies",
+        "display": true,
+        "type": "donut",
+        "hide-legend": false,
+        "series": [
+            {
+                "name": "IOTA",
+                "color": "#undefined",
+                "data": [
+                    0.9805458334687098
+                ]
+            },
+            {
+                "name": "IOTA",
+                "color": "#000000",
+                "data": [
+                    0.9805458334687098
+                ]
+            },
+            {
+                "name": "AMB",
+                "color": "#536ee4",
+                "data": [
+                    0.5306081573541087
+                ]
+            },
+            {
+                "name": "ADA",
+                "color": "#223142",
+                "data": [
+                    97.19683528618764
+                ]
+            }
+        ]
+    },
+    "barStackedTodaylongTerm": {
+        "name": "Account trades gains",
+        "display": true,
+        "type": "bar",
+        "hide-legend": false,
+        "categories": [
+            "XLMBTC",
+            "ADABTC",
+            "IOTABTC",
+            "AMBBTC"
+        ],
+        "series": [
+            {
+                "name": "Trade Gains in %",
+                "colors": [
+                    "#eb8279",
+                    "#eb8279",
+                    "#eb8279",
+                    "#eb8279"
+                ],
+                "data": [
+                    "-34.66",
+                    "-36.64",
+                    "-30.87",
+                    "-54.43"
+                ]
+            }
+        ]
+    },
+    "donutTodaylongerTerm": {
+        "name": "Account Currencies",
+        "display": true,
+        "type": "donut",
+        "hide-legend": false,
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#f8a642",
+                "data": [
+                    1.4126615661899617
+                ]
+            },
+            {
+                "name": "BNB",
+                "color": "#f5c44f",
+                "data": [
+                    2.910943247711637
+                ]
+            },
+            {
+                "name": "ADA",
+                "color": "#223142",
+                "data": [
+                    94.82592723779008
+                ]
+            }
+        ]
+    },
+    "barStackedTodaylongerTerm": {
+        "name": "Account trades gains",
+        "display": true,
+        "type": "bar",
+        "hide-legend": false,
+        "categories": [
+            "ADABTC",
+            "QKCBTC"
+        ],
+        "series": [
+            {
+                "name": "Trade Gains in %",
+                "colors": [
+                    "#eb8279",
+                    "#eb8279"
+                ],
+                "data": [
+                    "-36.84",
+                    "-61.46"
+                ]
+            }
+        ]
+>>>>>>> b6a89ff202120c72a74196fd3152d3d06a572b38
     }
 }

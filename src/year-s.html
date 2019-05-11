@@ -46,6 +46,16 @@ menu: thisyear
 		</div>
 		</div>
 
+		<div class="col-12">
+			<div class="row">
+				<div class="col-6">
+						{% include cards/chart.html height=16 title="Accounts Gains" id="chart-bar-stacked" data="barStackedTodayshortTerm" %}
+				</div>
+				<div class="col-6">
+						{% include cards/chart.html height=16 title="Accounts Cryptocurrencies" id="chart-donut" data="donutTodayshortTerm" %}
+				</div>
+			</div>
+		</div>
 </div>
 
 

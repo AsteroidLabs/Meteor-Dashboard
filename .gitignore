@@ -15,3 +15,4 @@ deploy-site
 /vendor/
 /package-lock.json
 Gemfile.lock
+src/_data/todayValues.json

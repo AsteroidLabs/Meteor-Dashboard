@@ -10,7 +10,7 @@ tasks:
   legend-position: 'top'
   series:
     - name: 'New'
-      color: blue
+      color: '5b6c6e'
       data: [0, 0, 1, 2, 21, 9, 12, 10, 31, 13, 65, 10, 12, 6, 4, 3, 0]
     - name: 'Completed'
       color: lime
