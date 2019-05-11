@@ -1,0 +1,2033 @@
+{
+    "mediumTermTodayValueBtc": {
+        "number": "0.1190",
+        "percentage": "1.3"
+    },
+    "mediumTermTodayValueUsdt": {
+        "number": "756",
+        "percentage": "3.6"
+    },
+    "mediumTermTodayQtyOrders": {
+        "number": "100",
+        "percentage": "90.0"
+    },
+    "mediumTermTodaySellingTimes": {
+        "number": "92.0"
+    },
+    "mediumTermTodaySellingTimeAvg": {
+        "number": "1.5 h",
+        "percentage": "-354.4"
+    },
+    "mediumTermTodayGainsBtc": {
+        "number": "0.0015"
+    },
+    "mediumTermTodayGainsUsdt": {
+        "number": "27.1"
+    },
+    "shortTermTodayValueBtc": {
+        "number": "0.0845",
+        "percentage": "-0.1"
+    },
+    "shortTermTodayValueUsdt": {
+        "number": "537",
+        "percentage": "2.2"
+    },
+    "shortTermTodayQtyOrders": {
+        "number": "0",
+        "percentage": 0
+    },
+    "shortTermTodaySellingTimes": {
+        "number": "1.0"
+    },
+    "shortTermTodaySellingTimeAvg": {
+        "number": "1.0 m",
+        "percentage": "-67615.0"
+    },
+    "shortTermTodayGainsBtc": {
+        "number": "-0.0001"
+    },
+    "shortTermTodayGainsUsdt": {
+        "number": "11.9"
+    },
+    "longTermTodayValueBtc": {
+        "number": "0.2483",
+        "percentage": "4.3"
+    },
+    "longTermTodayValueUsdt": {
+        "number": "1578",
+        "percentage": "6.5"
+    },
+    "longTermTodayQtyOrders": {
+        "number": "8",
+        "percentage": "-25.0"
+    },
+    "longTermTodaySellingTimes": {
+        "number": "655.3"
+    },
+    "longTermTodaySellingTimeAvg": {
+        "number": "10.9 h",
+        "percentage": "-60.7"
+    },
+    "longTermTodayGainsBtc": {
+        "number": "0.0106"
+    },
+    "longTermTodayGainsUsdt": {
+        "number": "102.6"
+    },
+    "longerTermTodayValueBtc": {
+        "number": "0.1298",
+        "percentage": "4.1"
+    },
+    "longerTermTodayValueUsdt": {
+        "number": "825",
+        "percentage": "6.3"
+    },
+    "longerTermTodayQtyOrders": {
+        "number": "14",
+        "percentage": "71.4"
+    },
+    "longerTermTodaySellingTimes": {
+        "number": "511.0"
+    },
+    "longerTermTodaySellingTimeAvg": {
+        "number": "8.5 h",
+        "percentage": "67.7"
+    },
+    "longerTermTodayGainsBtc": {
+        "number": "0.0053"
+    },
+    "longerTermTodayGainsUsdt": {
+        "number": "52.2"
+    },
+    "portfolioTodayValueBtc": {
+        "number": "0.5816",
+        "percentage": "3.0"
+    },
+    "portfolioTodayGainsBtc": {
+        "number": "0.0173"
+    },
+    "portfolioTodayValueUsdt": {
+        "number": "3696",
+        "percentage": "5.2"
+    },
+    "portfolioTodayGainsUsdt": {
+        "number": "193.8"
+    },
+    "portfolioTodayBetterThanBtc": {
+        "number": "YES",
+        "percentage": "2.2"
+    },
+    "portfolioTodayQtyOrders": {
+        "number": "122",
+        "percentage": 0
+    },
+    "portfolioTodaySellingTimeAvg": {
+        "number": "0.0 m",
+        "percentage": 0
+    },
+    "mediumTermWeekValueBtc": {
+        "number": "0.1190",
+        "percentage": "-15.9"
+    },
+    "mediumTermWeekValueUsdt": {
+        "number": "756",
+        "percentage": "-4.8"
+    },
+    "mediumTermWeekQtyOrders": {
+        "number": "559",
+        "percentage": "-195.0"
+    },
+    "mediumTermWeekSellingTimes": {
+        "number": "8204428"
+    },
+    "mediumTermWeekSellingTimeAvg": {
+        "number": "22.8 h",
+        "percentage": "-44.1"
+    },
+    "mediumTermWeekGainsBtc": {
+        "number": "-0.0189"
+    },
+    "mediumTermWeekGainsUsdt": {
+        "number": "-36.1"
+    },
+    "shortTermWeekValueBtc": {
+        "number": "0.0845",
+        "percentage": "13.3"
+    },
+    "shortTermWeekValueUsdt": {
+        "number": "537",
+        "percentage": "21.6"
+    },
+    "shortTermWeekQtyOrders": {
+        "number": "11",
+        "percentage": 0
+    },
+    "shortTermWeekSellingTimes": {
+        "number": "4932762"
+    },
+    "shortTermWeekSellingTimeAvg": {
+        "number": "13.7 h",
+        "percentage": 0
+    },
+    "shortTermWeekGainsBtc": {
+        "number": "0.0113"
+    },
+    "shortTermWeekGainsUsdt": {
+        "number": "116.2"
+    },
+    "longTermWeekValueBtc": {
+        "number": "0.2483",
+        "percentage": "-16.4"
+    },
+    "longTermWeekValueUsdt": {
+        "number": "1578",
+        "percentage": "-5.2"
+    },
+    "longTermWeekQtyOrders": {
+        "number": "118",
+        "percentage": 0
+    },
+    "longTermWeekSellingTimes": {
+        "number": "8574733"
+    },
+    "longTermWeekSellingTimeAvg": {
+        "number": "23.8 h",
+        "percentage": 0
+    },
+    "longTermWeekGainsBtc": {
+        "number": "-0.0407"
+    },
+    "longTermWeekGainsUsdt": {
+        "number": "-82.0"
+    },
+    "longerTermWeekValueBtc": {
+        "number": "0.1298",
+        "percentage": "-16.5"
+    },
+    "longerTermWeekValueUsdt": {
+        "number": "825",
+        "percentage": "-5.3"
+    },
+    "longerTermWeekQtyOrders": {
+        "number": "18",
+        "percentage": 0
+    },
+    "longerTermWeekSellingTimes": {
+        "number": "26050499"
+    },
+    "longerTermWeekSellingTimeAvg": {
+        "number": "3.0 d",
+        "percentage": 0
+    },
+    "longerTermWeekGainsBtc": {
+        "number": "-0.0215"
+    },
+    "longerTermWeekGainsUsdt": {
+        "number": "-44.0"
+    },
+    "portfolioWeekValueBtc": {
+        "number": "0.5816",
+        "percentage": "-12.0"
+    },
+    "portfolioWeekGainsBtc": {
+        "number": "-0.0698"
+    },
+    "portfolioWeekValueUsdt": {
+        "number": "3696",
+        "percentage": "-1.2"
+    },
+    "portfolioWeekGainsUsdt": {
+        "number": "-45.9"
+    },
+    "portfolioWeekBetterThanBtc": {
+        "number": "NO",
+        "percentage": "-12.0"
+    },
+    "portfolioWeekQtyOrders": {
+        "number": "706",
+        "percentage": 0
+    },
+    "portfolioWeekSellingTimeAvg": {
+        "number": "3.3 h",
+        "percentage": 0
+    },
+    "mediumTermMonthValueBtc": {
+        "number": "0.1190",
+        "percentage": "-5.2"
+    },
+    "mediumTermMonthValueUsdt": {
+        "number": "756",
+        "percentage": "11.9"
+    },
+    "mediumTermMonthQtyOrders": {
+        "number": "584",
+        "percentage": 0
+    },
+    "mediumTermMonthSellingTimes": {
+        "number": "7882913"
+    },
+    "mediumTermMonthSellingTimeAvg": {
+        "number": "21.9 h",
+        "percentage": 0
+    },
+    "mediumTermMonthGainsBtc": {
+        "number": "-0.0062"
+    },
+    "mediumTermMonthGainsUsdt": {
+        "number": "90.0"
+    },
+    "shortTermMonthValueBtc": {
+        "number": "0.0845",
+        "percentage": "13.0"
+    },
+    "shortTermMonthValueUsdt": {
+        "number": "537",
+        "percentage": "27.2"
+    },
+    "shortTermMonthQtyOrders": {
+        "number": "28",
+        "percentage": 0
+    },
+    "shortTermMonthSellingTimes": {
+        "number": "6741464"
+    },
+    "shortTermMonthSellingTimeAvg": {
+        "number": "18.7 h",
+        "percentage": 0
+    },
+    "shortTermMonthGainsBtc": {
+        "number": "0.0110"
+    },
+    "shortTermMonthGainsUsdt": {
+        "number": "146.1"
+    },
+    "longTermMonthValueBtc": {
+        "number": "0.2483",
+        "percentage": "-27.1"
+    },
+    "longTermMonthValueUsdt": {
+        "number": "1578",
+        "percentage": "-6.3"
+    },
+    "longTermMonthQtyOrders": {
+        "number": "118",
+        "percentage": 0
+    },
+    "longTermMonthSellingTimes": {
+        "number": "8574733"
+    },
+    "longTermMonthSellingTimeAvg": {
+        "number": "23.8 h",
+        "percentage": 0
+    },
+    "longTermMonthGainsBtc": {
+        "number": "-0.0672"
+    },
+    "longTermMonthGainsUsdt": {
+        "number": "-100.0"
+    },
+    "longerTermMonthValueBtc": {
+        "number": "0.1298",
+        "percentage": "-26.8"
+    },
+    "longerTermMonthValueUsdt": {
+        "number": "825",
+        "percentage": "-6.1"
+    },
+    "longerTermMonthQtyOrders": {
+        "number": "18",
+        "percentage": 0
+    },
+    "longerTermMonthSellingTimes": {
+        "number": "26050499"
+    },
+    "longerTermMonthSellingTimeAvg": {
+        "number": "3.0 d",
+        "percentage": 0
+    },
+    "longerTermMonthGainsBtc": {
+        "number": "-0.0348"
+    },
+    "longerTermMonthGainsUsdt": {
+        "number": "-50.7"
+    },
+    "portfolioMonthValueBtc": {
+        "number": "0.5816",
+        "percentage": "-16.7"
+    },
+    "portfolioMonthGainsBtc": {
+        "number": "-0.0972"
+    },
+    "portfolioMonthValueUsdt": {
+        "number": "3696",
+        "percentage": "2.3"
+    },
+    "portfolioMonthGainsUsdt": {
+        "number": "85.4"
+    },
+    "portfolioMonthBetterThanBtc": {
+        "number": "NO",
+        "percentage": "-16.7"
+    },
+    "portfolioMonthQtyOrders": {
+        "number": "748",
+        "percentage": 0
+    },
+    "portfolioMonthSellingTimeAvg": {
+        "number": "3.4 h",
+        "percentage": 0
+    },
+    "mediumTermYearValueBtc": {
+        "number": "0.1190",
+        "percentage": "-20.3"
+    },
+    "mediumTermYearValueUsdt": {
+        "number": "756",
+        "percentage": "4.3"
+    },
+    "mediumTermYearQtyOrders": {
+        "number": "1971",
+        "percentage": 0
+    },
+    "mediumTermYearSellingTimes": {
+        "number": "9068864"
+    },
+    "mediumTermYearSellingTimeAvg": {
+        "number": "1.0 d",
+        "percentage": 0
+    },
+    "mediumTermYearGainsBtc": {
+        "number": "-0.0241"
+    },
+    "mediumTermYearGainsUsdt": {
+        "number": "32.4"
+    },
+    "shortTermYearValueBtc": {
+        "number": "0.0845",
+        "percentage": "15.8"
+    },
+    "shortTermYearValueUsdt": {
+        "number": "537",
+        "percentage": "33.0"
+    },
+    "shortTermYearQtyOrders": {
+        "number": "42",
+        "percentage": 0
+    },
+    "shortTermYearSellingTimes": {
+        "number": "5633041"
+    },
+    "shortTermYearSellingTimeAvg": {
+        "number": "15.7 h",
+        "percentage": 0
+    },
+    "shortTermYearGainsBtc": {
+        "number": "0.0133"
+    },
+    "shortTermYearGainsUsdt": {
+        "number": "177.0"
+    },
+    "longTermYearValueBtc": {
+        "number": "0.2483",
+        "percentage": "-41.7"
+    },
+    "longTermYearValueUsdt": {
+        "number": "1578",
+        "percentage": "-12.8"
+    },
+    "longTermYearQtyOrders": {
+        "number": "162",
+        "percentage": "25.0"
+    },
+    "longTermYearSellingTimes": {
+        "number": "60104069"
+    },
+    "longTermYearSellingTimeAvg": {
+        "number": "7.0 d",
+        "percentage": "-97.3"
+    },
+    "longTermYearGainsBtc": {
+        "number": "-0.1037"
+    },
+    "longTermYearGainsUsdt": {
+        "number": "-202.4"
+    },
+    "longerTermYearValueBtc": {
+        "number": "0.1298",
+        "percentage": "-43.5"
+    },
+    "longerTermYearValueUsdt": {
+        "number": "825",
+        "percentage": "-14.2"
+    },
+    "longerTermYearQtyOrders": {
+        "number": "38",
+        "percentage": "85.7"
+    },
+    "longerTermYearSellingTimes": {
+        "number": "69664726"
+    },
+    "longerTermYearSellingTimeAvg": {
+        "number": "8.1 d",
+        "percentage": "-417.8"
+    },
+    "longerTermYearGainsBtc": {
+        "number": "-0.0565"
+    },
+    "longerTermYearGainsUsdt": {
+        "number": "-117.5"
+    },
+    "portfolioYearValueBtc": {
+        "number": "0.5816",
+        "percentage": "-29.4"
+    },
+    "portfolioYearGainsBtc": {
+        "number": "-0.1710"
+    },
+    "portfolioYearValueUsdt": {
+        "number": "3696",
+        "percentage": "-3.0"
+    },
+    "portfolioYearGainsUsdt": {
+        "number": "-110.5"
+    },
+    "portfolioYearBetterThanBtc": {
+        "number": "NO",
+        "percentage": "-29.4"
+    },
+    "portfolioYearQtyOrders": {
+        "number": "2213",
+        "percentage": 0
+    },
+    "portfolioYearSellingTimeAvg": {
+        "number": "10.0 h",
+        "percentage": 0
+    },
+    "portfolioToday": {
+        "name": "Portfolio Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#f4d560",
+                "data": [
+                    "0.6746",
+                    "0.6797",
+                    "0.6515",
+                    "0.6459",
+                    "0.6573",
+                    "0.6297",
+                    "0.6158",
+                    "0.5642",
+                    "0.5816"
+                ]
+            }
+        ]
+    },
+    "shortTermToday": {
+        "name": "Short Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#80a6db",
+                "data": [
+                    "0.0710",
+                    "0.0736",
+                    "0.0733",
+                    "0.0774",
+                    "0.0844",
+                    "0.0843",
+                    "0.0845",
+                    "0.0846",
+                    "0.0845"
+                ]
+            }
+        ]
+    },
+    "mediumTermToday": {
+        "name": "Medium Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#91ce54",
+                "data": [
+                    "0.1239",
+                    "0.1416",
+                    "0.1379",
+                    "0.1374",
+                    "0.1367",
+                    "0.1318",
+                    "0.1277",
+                    "0.1174",
+                    "0.1190"
+                ]
+            }
+        ]
+    },
+    "longTermToday": {
+        "name": "Long Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#f4d560",
+                "data": [
+                    "0.3149",
+                    "0.3050",
+                    "0.2890",
+                    "0.2829",
+                    "0.2864",
+                    "0.2716",
+                    "0.2650",
+                    "0.2377",
+                    "0.2483"
+                ]
+            }
+        ]
+    },
+    "longerTermToday": {
+        "name": "Longer Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#eb8279",
+                "data": [
+                    "0.1648",
+                    "0.1595",
+                    "0.1513",
+                    "0.1482",
+                    "0.1498",
+                    "0.1420",
+                    "0.1386",
+                    "0.1245",
+                    "0.1298"
+                ]
+            }
+        ]
+    },
+    "portfolioWeek": {
+        "name": "Portfolio Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#f4d560",
+                "data": [
+                    "0.7526",
+                    "0.7611",
+                    "0.7639",
+                    "0.7864",
+                    "0.7908",
+                    "0.7944",
+                    "0.7805",
+                    "0.7547",
+                    "0.7379",
+                    "0.7639",
+                    "0.6997",
+                    "0.7044",
+                    "0.7012",
+                    "0.6881",
+                    "0.6998",
+                    "0.6878",
+                    "0.6737",
+                    "0.6905",
+                    "0.6789",
+                    "0.6746",
+                    "0.6797",
+                    "0.6515",
+                    "0.6459",
+                    "0.6573",
+                    "0.6297",
+                    "0.6158",
+                    "0.5642",
+                    "0.5816"
+                ]
+            }
+        ]
+    },
+    "shortTermWeek": {
+        "name": "Short Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#80a6db",
+                "data": [
+                    "0.0712",
+                    "0.0712",
+                    "0.0699",
+                    "0.0745",
+                    "0.0749",
+                    "0.0753",
+                    "0.0757",
+                    "0.0746",
+                    "0.0729",
+                    "0.0743",
+                    "0.0688",
+                    "0.0714",
+                    "0.0693",
+                    "0.0682",
+                    "0.0685",
+                    "0.0717",
+                    "0.0717",
+                    "0.0739",
+                    "0.0735",
+                    "0.0710",
+                    "0.0736",
+                    "0.0733",
+                    "0.0774",
+                    "0.0844",
+                    "0.0843",
+                    "0.0845",
+                    "0.0846",
+                    "0.0845"
+                ]
+            }
+        ]
+    },
+    "mediumTermWeek": {
+        "name": "Medium Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#91ce54",
+                "data": [
+                    "0.1431",
+                    "0.1435",
+                    "0.1453",
+                    "0.1433",
+                    "0.1416",
+                    "0.1406",
+                    "0.1380",
+                    "0.1364",
+                    "0.1360",
+                    "0.1358",
+                    "0.1376",
+                    "0.1270",
+                    "0.1279",
+                    "0.1268",
+                    "0.1249",
+                    "0.1266",
+                    "0.1246",
+                    "0.1228",
+                    "0.1248",
+                    "0.1252",
+                    "0.1239",
+                    "0.1416",
+                    "0.1379",
+                    "0.1374",
+                    "0.1367",
+                    "0.1318",
+                    "0.1277",
+                    "0.1174",
+                    "0.1190"
+                ]
+            }
+        ]
+    },
+    "longTermWeek": {
+        "name": "Long Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#f4d560",
+                "data": [
+                    "0.3520",
+                    "0.3542",
+                    "0.3560",
+                    "0.3701",
+                    "0.3779",
+                    "0.3823",
+                    "0.3736",
+                    "0.3575",
+                    "0.3477",
+                    "0.3629",
+                    "0.3311",
+                    "0.3317",
+                    "0.3318",
+                    "0.3250",
+                    "0.3314",
+                    "0.3228",
+                    "0.3148",
+                    "0.3232",
+                    "0.3155",
+                    "0.3149",
+                    "0.3050",
+                    "0.2890",
+                    "0.2829",
+                    "0.2864",
+                    "0.2716",
+                    "0.2650",
+                    "0.2377",
+                    "0.2483"
+                ]
+            }
+        ]
+    },
+    "longerTermWeek": {
+        "name": "Longer Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#eb8279",
+                "data": [
+                    "0.1863",
+                    "0.1922",
+                    "0.1927",
+                    "0.1985",
+                    "0.1964",
+                    "0.1988",
+                    "0.1948",
+                    "0.1866",
+                    "0.1815",
+                    "0.1891",
+                    "0.1728",
+                    "0.1734",
+                    "0.1733",
+                    "0.1700",
+                    "0.1733",
+                    "0.1687",
+                    "0.1644",
+                    "0.1686",
+                    "0.1647",
+                    "0.1648",
+                    "0.1595",
+                    "0.1513",
+                    "0.1482",
+                    "0.1498",
+                    "0.1420",
+                    "0.1386",
+                    "0.1245",
+                    "0.1298"
+                ]
+            }
+        ]
+    },
+    "portfolioMonth": {
+        "name": "Portfolio Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#f4d560",
+                "data": [
+                    "0.7526",
+                    "0.7611",
+                    "0.7639",
+                    "0.7864",
+                    "0.7908",
+                    "0.7944",
+                    "0.7805",
+                    "0.7547",
+                    "0.7379",
+                    "0.7639",
+                    "0.6997",
+                    "0.7044",
+                    "0.7012",
+                    "0.6881",
+                    "0.6998",
+                    "0.6878",
+                    "0.6737",
+                    "0.6905",
+                    "0.6789",
+                    "0.6746",
+                    "0.6797",
+                    "0.6515",
+                    "0.6459",
+                    "0.6573",
+                    "0.6297",
+                    "0.6158",
+                    "0.5642",
+                    "0.5816"
+                ]
+            }
+        ]
+    },
+    "shortTermMonth": {
+        "name": "Short Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#80a6db",
+                "data": [
+                    "0.0712",
+                    "0.0712",
+                    "0.0699",
+                    "0.0745",
+                    "0.0749",
+                    "0.0753",
+                    "0.0757",
+                    "0.0746",
+                    "0.0729",
+                    "0.0743",
+                    "0.0688",
+                    "0.0714",
+                    "0.0693",
+                    "0.0682",
+                    "0.0685",
+                    "0.0717",
+                    "0.0717",
+                    "0.0739",
+                    "0.0735",
+                    "0.0710",
+                    "0.0736",
+                    "0.0733",
+                    "0.0774",
+                    "0.0844",
+                    "0.0843",
+                    "0.0845",
+                    "0.0846",
+                    "0.0845"
+                ]
+            }
+        ]
+    },
+    "mediumTermMonth": {
+        "name": "Medium Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#91ce54",
+                "data": [
+                    "0.1431",
+                    "0.1435",
+                    "0.1453",
+                    "0.1433",
+                    "0.1416",
+                    "0.1406",
+                    "0.1380",
+                    "0.1364",
+                    "0.1360",
+                    "0.1358",
+                    "0.1376",
+                    "0.1270",
+                    "0.1279",
+                    "0.1268",
+                    "0.1249",
+                    "0.1266",
+                    "0.1246",
+                    "0.1228",
+                    "0.1248",
+                    "0.1252",
+                    "0.1239",
+                    "0.1416",
+                    "0.1379",
+                    "0.1374",
+                    "0.1367",
+                    "0.1318",
+                    "0.1277",
+                    "0.1174",
+                    "0.1190"
+                ]
+            }
+        ]
+    },
+    "longTermMonth": {
+        "name": "Long Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#f4d560",
+                "data": [
+                    "0.3520",
+                    "0.3542",
+                    "0.3560",
+                    "0.3701",
+                    "0.3779",
+                    "0.3823",
+                    "0.3736",
+                    "0.3575",
+                    "0.3477",
+                    "0.3629",
+                    "0.3311",
+                    "0.3317",
+                    "0.3318",
+                    "0.3250",
+                    "0.3314",
+                    "0.3228",
+                    "0.3148",
+                    "0.3232",
+                    "0.3155",
+                    "0.3149",
+                    "0.3050",
+                    "0.2890",
+                    "0.2829",
+                    "0.2864",
+                    "0.2716",
+                    "0.2650",
+                    "0.2377",
+                    "0.2483"
+                ]
+            }
+        ]
+    },
+    "longerTermMonth": {
+        "name": "Longer Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#eb8279",
+                "data": [
+                    "0.1863",
+                    "0.1922",
+                    "0.1927",
+                    "0.1985",
+                    "0.1964",
+                    "0.1988",
+                    "0.1948",
+                    "0.1866",
+                    "0.1815",
+                    "0.1891",
+                    "0.1728",
+                    "0.1734",
+                    "0.1733",
+                    "0.1700",
+                    "0.1733",
+                    "0.1687",
+                    "0.1644",
+                    "0.1686",
+                    "0.1647",
+                    "0.1648",
+                    "0.1595",
+                    "0.1513",
+                    "0.1482",
+                    "0.1498",
+                    "0.1420",
+                    "0.1386",
+                    "0.1245",
+                    "0.1298"
+                ]
+            }
+        ]
+    },
+    "portfolioYear": {
+        "name": "Portfolio Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#f4d560",
+                "data": [
+                    "0.7526",
+                    "0.7611",
+                    "0.7639",
+                    "0.7864",
+                    "0.7908",
+                    "0.7944",
+                    "0.7805",
+                    "0.7547",
+                    "0.7379",
+                    "0.7639",
+                    "0.6997",
+                    "0.7044",
+                    "0.7012",
+                    "0.6881",
+                    "0.6998",
+                    "0.6878",
+                    "0.6737",
+                    "0.6905",
+                    "0.6789",
+                    "0.6746",
+                    "0.6797",
+                    "0.6515",
+                    "0.6459",
+                    "0.6573",
+                    "0.6297",
+                    "0.6158",
+                    "0.5642",
+                    "0.5816"
+                ]
+            }
+        ]
+    },
+    "shortTermYear": {
+        "name": "Short Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#80a6db",
+                "data": [
+                    "0.0712",
+                    "0.0712",
+                    "0.0699",
+                    "0.0745",
+                    "0.0749",
+                    "0.0753",
+                    "0.0757",
+                    "0.0746",
+                    "0.0729",
+                    "0.0743",
+                    "0.0688",
+                    "0.0714",
+                    "0.0693",
+                    "0.0682",
+                    "0.0685",
+                    "0.0717",
+                    "0.0717",
+                    "0.0739",
+                    "0.0735",
+                    "0.0710",
+                    "0.0736",
+                    "0.0733",
+                    "0.0774",
+                    "0.0844",
+                    "0.0843",
+                    "0.0845",
+                    "0.0846",
+                    "0.0845"
+                ]
+            }
+        ]
+    },
+    "mediumTermYear": {
+        "name": "Medium Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#91ce54",
+                "data": [
+                    "0.1431",
+                    "0.1435",
+                    "0.1453",
+                    "0.1433",
+                    "0.1416",
+                    "0.1406",
+                    "0.1380",
+                    "0.1364",
+                    "0.1360",
+                    "0.1358",
+                    "0.1376",
+                    "0.1270",
+                    "0.1279",
+                    "0.1268",
+                    "0.1249",
+                    "0.1266",
+                    "0.1246",
+                    "0.1228",
+                    "0.1248",
+                    "0.1252",
+                    "0.1239",
+                    "0.1416",
+                    "0.1379",
+                    "0.1374",
+                    "0.1367",
+                    "0.1318",
+                    "0.1277",
+                    "0.1174",
+                    "0.1190"
+                ]
+            }
+        ]
+    },
+    "longTermYear": {
+        "name": "Long Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#f4d560",
+                "data": [
+                    "0.3520",
+                    "0.3542",
+                    "0.3560",
+                    "0.3701",
+                    "0.3779",
+                    "0.3823",
+                    "0.3736",
+                    "0.3575",
+                    "0.3477",
+                    "0.3629",
+                    "0.3311",
+                    "0.3317",
+                    "0.3318",
+                    "0.3250",
+                    "0.3314",
+                    "0.3228",
+                    "0.3148",
+                    "0.3232",
+                    "0.3155",
+                    "0.3149",
+                    "0.3050",
+                    "0.2890",
+                    "0.2829",
+                    "0.2864",
+                    "0.2716",
+                    "0.2650",
+                    "0.2377",
+                    "0.2483"
+                ]
+            }
+        ]
+    },
+    "longerTermYear": {
+        "name": "Longer Value",
+        "display": true,
+        "type": "area-spline",
+        "hide-legend": true,
+        "categories": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#eb8279",
+                "data": [
+                    "0.1863",
+                    "0.1922",
+                    "0.1927",
+                    "0.1985",
+                    "0.1964",
+                    "0.1988",
+                    "0.1948",
+                    "0.1866",
+                    "0.1815",
+                    "0.1891",
+                    "0.1728",
+                    "0.1734",
+                    "0.1733",
+                    "0.1700",
+                    "0.1733",
+                    "0.1687",
+                    "0.1644",
+                    "0.1686",
+                    "0.1647",
+                    "0.1648",
+                    "0.1595",
+                    "0.1513",
+                    "0.1482",
+                    "0.1498",
+                    "0.1420",
+                    "0.1386",
+                    "0.1245",
+                    "0.1298"
+                ]
+            }
+        ]
+    },
+    "barStackedToday": {
+        "name": "Accounts Value in Portfolio",
+        "display": true,
+        "type": "bar",
+        "hide-legend": false,
+        "categories": [
+            "Short Term",
+            "Medium Term",
+            "Long Term",
+            "Longer Term"
+        ],
+        "series": [
+            {
+                "name": "Account Value in BTC",
+                "color": "#80a6db",
+                "data": [
+                    "0.0739",
+                    "0.1248",
+                    "0.3232",
+                    "0.1686"
+                ]
+            }
+        ]
+    },
+    "donutToday": {
+        "name": "Accounts % in Portfolio",
+        "display": true,
+        "type": "donut",
+        "hide-legend": false,
+        "series": [
+            {
+                "name": "Short Term",
+                "color": "#80a6db",
+                "data": "10.7024"
+            },
+            {
+                "name": "Medium Term",
+                "color": "#91ce54",
+                "data": "18.0739"
+            },
+            {
+                "name": "Long Term",
+                "color": "#f4d560",
+                "data": "46.8067"
+            },
+            {
+                "name": "Long Term",
+                "color": "#eb8279",
+                "data": "24.4171"
+            }
+        ]
+    },
+    "donutTodayshortTerm": {
+        "name": "Account Currencies",
+        "display": true,
+        "type": "donut",
+        "hide-legend": false,
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#f8a642",
+                "data": [
+                    94.0908886620805
+                ]
+            }
+        ]
+    },
+    "donutTodaymediumTerm": {
+        "name": "Account Currencies",
+        "display": true,
+        "type": "donut",
+        "hide-legend": false,
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#f8a642",
+                "data": [
+                    6.315067986673692
+                ]
+            },
+            {
+                "name": "NEO",
+                "color": "#85d044",
+                "data": [
+                    7.088772878128878
+                ]
+            },
+            {
+                "name": "BNB",
+                "color": "#f5c44f",
+                "data": [
+                    2.6215792771627924
+                ]
+            },
+            {
+                "name": "TRX",
+                "color": "#191919",
+                "data": [
+                    3.0309325525066924
+                ]
+            },
+            {
+                "name": "DASH",
+                "color": "#32a3ec",
+                "data": [
+                    41.05926430097639
+                ]
+            },
+            {
+                "name": "GXS",
+                "color": "#67bbf6",
+                "data": [
+                    2.064220038709128
+                ]
+            },
+            {
+                "name": "ADA",
+                "color": "#223142",
+                "data": [
+                    35.97634947078733
+                ]
+            }
+        ]
+    },
+    "barStackedTodaymediumTerm": {
+        "name": "Account trades gains",
+        "display": true,
+        "type": "bar",
+        "colors":true,
+        "hide-legend": false,
+        "categories": [
+            "ADABTC",
+            "NEOBTC",
+            "DASHBTC",
+            "TRXUSDT"
+        ],
+        "series": [
+            {
+                "name": "Trade Gains in %",
+                "colors": [
+                    "#eb8279",
+                    "#eb8279",
+                    "#eb8279",
+                    "#eb8279"
+                ],
+                "data": [
+                    "-35.81",
+                    "-16.03",
+                    "-28.97",
+                    "-8.87"
+                ]
+            }
+        ]
+    },
+    "donutTodaylongTerm": {
+        "name": "Account Currencies",
+        "display": true,
+        "type": "donut",
+        "hide-legend": false,
+        "series": [
+            {
+                "name": "IOTA",
+                "color": "#undefined",
+                "data": [
+                    0.9805458334687098
+                ]
+            },
+            {
+                "name": "IOTA",
+                "color": "#000000",
+                "data": [
+                    0.9805458334687098
+                ]
+            },
+            {
+                "name": "AMB",
+                "color": "#536ee4",
+                "data": [
+                    0.5306081573541087
+                ]
+            },
+            {
+                "name": "ADA",
+                "color": "#223142",
+                "data": [
+                    97.19683528618764
+                ]
+            }
+        ]
+    },
+    "barStackedTodaylongTerm": {
+        "name": "Account trades gains",
+        "display": true,
+        "type": "bar",
+        "hide-legend": false,
+        "categories": [
+            "XLMBTC",
+            "ADABTC",
+            "IOTABTC",
+            "AMBBTC"
+        ],
+        "series": [
+            {
+                "name": "Trade Gains in %",
+                "colors": [
+                    "#eb8279",
+                    "#eb8279",
+                    "#eb8279",
+                    "#eb8279"
+                ],
+                "data": [
+                    "-34.66",
+                    "-36.64",
+                    "-30.87",
+                    "-54.43"
+                ]
+            }
+        ]
+    },
+    "donutTodaylongerTerm": {
+        "name": "Account Currencies",
+        "display": true,
+        "type": "donut",
+        "hide-legend": false,
+        "series": [
+            {
+                "name": "BTC",
+                "color": "#f8a642",
+                "data": [
+                    1.4126615661899617
+                ]
+            },
+            {
+                "name": "BNB",
+                "color": "#f5c44f",
+                "data": [
+                    2.910943247711637
+                ]
+            },
+            {
+                "name": "ADA",
+                "color": "#223142",
+                "data": [
+                    94.82592723779008
+                ]
+            }
+        ]
+    },
+    "barStackedTodaylongerTerm": {
+        "name": "Account trades gains",
+        "display": true,
+        "type": "bar",
+        "hide-legend": false,
+        "categories": [
+            "ADABTC",
+            "QKCBTC"
+        ],
+        "series": [
+            {
+                "name": "Trade Gains in %",
+                "colors": [
+                    "#eb8279",
+                    "#eb8279"
+                ],
+                "data": [
+                    "-36.84",
+                    "-61.46"
+                ]
+            }
+        ]
+    }
+}
