@@ -12,6 +12,13 @@ require(['c3', 'jquery'], function(c3, $) {
 					{% for serie in data.series %}
 					['data{{ forloop.index }}', {{ serie.data | join: ', '}}]{% unless forloop.last %},{% endunless %}{% endfor %}
 				],
+				{% if data.multipleAxes %}
+				axes: {
+				    // each columns data
+					data1: 'y',
+					data2: 'y2'
+				},
+				{% endif %}
 
 				{% if data.fill %}
 				classes: {
@@ -39,14 +46,14 @@ require(['c3', 'jquery'], function(c3, $) {
 				{% endif %}
 
 				colors: {
-{% if data.series[0].colors %}
-{% for serie in data.series[0].colors %}
-'data{{ forloop.index }}': "{{ serie | default: '#91ce54' }}"{% unless forloop.last %},{% endunless %}{% endfor %}
-{% else %}
-{% for serie in data.series %}
-'data{{ forloop.index }}': "{{ serie.color | default: '#91ce54' }}"{% unless forloop.last %},{% endunless %}{% endfor %}
-{% endif %}
-					
+					{% if data.series[0].colors %}
+					{% for serie in data.series[0].colors %}
+					'data{{ forloop.index }}': "{{ serie | default: '#91ce54' }}"{% unless forloop.last %},{% endunless %}{% endfor %}
+					{% else %}
+					{% for serie in data.series %}
+					'data{{ forloop.index }}': "{{ serie.color | default: '#91ce54' }}"{% unless forloop.last %},{% endunless %}{% endfor %}
+					{% endif %}
+										
 				},
 
 				names: {
@@ -83,6 +90,11 @@ require(['c3', 'jquery'], function(c3, $) {
 					// name of each category
 					categories: [{% for category in data.categories %}'{{ category }}'{% unless forloop.last %}, {% endunless %}{% endfor %}]
 				},
+				{% endif %}
+					{% if data.multipleAxes %}
+					y2: {
+						show: true
+					},
 				{% endif %}
 				{% if data.rotated %}
 				rotated: true,
