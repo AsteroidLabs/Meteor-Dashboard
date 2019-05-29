@@ -1,0 +1,68 @@
+---
+layout: default
+title: Portfolio - Shares
+menu: oneshare
+---
+
+
+<div class="container">
+
+	{% include page-title.html title="Shares - Portfolio" %}
+
+	<div class="row row-cards">
+
+		<div class="col-6 col-sm-6 col-lg-6">
+			{% include cards/stats-1.html title="Better Than BTC" data="portfolioTodayBetterThanBtc" %}
+		</div>
+		<div class="col-6 col-sm-6 col-lg-6">
+			{% include cards/stats-1.html title="Qty of Shares" data="shareMonthNbShares" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-4">
+			{% include cards/stats-1.html title="Inital Value (BTC)" data="shareMonthInitialValueBtc" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-4">
+			{% include cards/stats-1.html title="Current Value (BTC)" data="shareMonthCurrentValueBtc" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-4">
+			{% include cards/stats-1.html title="Current Gains (BTC)" data="shareMonthCurrentGainsBtc" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-4">
+			{% include cards/stats-1.html title="Inital Value (USD)" data="shareMonthInitialValueUsd" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-4">
+			{% include cards/stats-1.html title="Current Value (USD)" data="shareMonthCurrentValueUsd" %}
+		</div>
+		<div class="col-6 col-sm-4 col-lg-4">
+			{% include cards/stats-1.html title="Current Gains (USD)" data="shareMonthCurrentGainsUsd" %}
+		</div>
+		
+	
+		<div class="col-12">
+			<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<h3 class="card-title">One Share's Value Over Time</h3>
+					</div>
+					<div class="card-body">
+						<div id="chart-area-spline" style="height: 16rem"></div>
+					</div>
+					</div>
+					{% include js-charts.html id="chart-area-spline" data="shareTotal" %}
+			</div>
+		</div>
+		</div>
+
+		<div class="col-12">
+			<div class="row">
+				<div class="col-6">
+						{% include cards/chart.html height=16 title="One Share's Gains Per Months" id="chart-bar-stacked" data="barStackedShareMonth" %}
+				</div>
+				<div class="col-6">
+						{% include cards/chart.html height=16 title="Initial Investment vs Current Capital" id="chart-donut" data="donutShareMonth" %}
+				</div>
+			</div>
+		</div>
+</div>
+
+

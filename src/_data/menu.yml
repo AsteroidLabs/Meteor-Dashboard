@@ -97,3 +97,7 @@ thisyear:
     longer:
       name: Longer Term
       url: year-le.html
+oneshare:
+  name: Shares
+  icon: fe fe-dollar-sign
+  url: shares.html
